@@ -6,9 +6,9 @@
 
 ## Statut Actuel
 
-Connecté — disponible pour discuter de vos projets
+En ligne et prêt à contribuer à des projets open source
 
-😄 Humeur : Confiant et serein face aux défis techniques
+😄 Humeur : Chargé à bloc et prêt à coder pendant des heures
 
 ---
 
@@ -16,25 +16,25 @@ Connecté — disponible pour discuter de vos projets
 
 💬 Développement d'un système de chat temps réel avec Socket.io
 
-📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
+📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
 
 ---
 
 ## 💬 Pensée du Moment
 
-💎 *"Construis des choses qui durent. Écris du code dont tu seras fier dans 5 ans."*
+*"Les grands projets commencent toujours par un simple commit."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise des branches git pour chaque fonctionnalité — garde main toujours stable et déployable.
+🧩 **Conseil du jour :** Fais des code reviews régulières — même sur ton propre code après quelques jours.
 
 ---
 
 ## Technologie Mise en Avant
 
-> JWT — authentification stateless et sécurisée
+> AsyncStorage — persistance des données locales sur mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 21/04/2026 à 17:10*
-<!-- auto-update: 2026-04-21 17:10:02 -->
+*Dernière mise à jour : 21/04/2026 à 17:15*
+<!-- auto-update: 2026-04-21 17:15:03 -->
