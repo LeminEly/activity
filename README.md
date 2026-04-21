@@ -1,44 +1,44 @@
-# ‍ LeminEly — Activité & Présence
+# 👨‍💻 LeminEly — Activité & Présence
 
 > Développeur Full Stack passionné par le mobile, le backend et les architectures modernes.
 
 ---
 
-##  Statut Actuel
+## Statut Actuel
 
- Connecté — disponible pour discuter de vos projets
+En ligne — prêt à collaborer sur des idées innovantes
 
- Humeur : Lancé comme une fusée vers les objectifs du sprint
-
----
-
-##  Ce Sur Quoi Je Travaille
-
- Développement d'une interface mobile avec React Native et Expo
-
- **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
+😄 Humeur : Calme et méthodique — chaque problème a une solution
 
 ---
 
-##  Pensée du Moment
+## 🛠️ Ce Sur Quoi Je Travaille
 
- *"Chaque ligne de code est une opportunité de résoudre un problème réel pour quelqu'un."*
+Développement d'une interface mobile avec React Native et Expo
 
----
-
-##  Conseil Tech du Jour
-
- **Conseil du jour :** Écris d'abord des tests, ensuite le code. Le TDD te fera gagner des heures de débogage.
+📌 **Objectif cette semaine :** Mettre en place des alertes de monitoring en production
 
 ---
 
-##  Technologie Mise en Avant
+## 💬 Pensée du Moment
 
->  Winston — logging professionnel multi-transport
+🦋 *"Chaque refactoring est une métamorphose — du chaos vers l'élégance."*
 
 ---
 
-##  Ma Stack Principale
+## 🧩 Conseil Tech du Jour
+
+🧩 **Conseil du jour :** Apprends les concepts fondamentaux avant les frameworks — ils resteront longtemps après que les frameworks disparaissent.
+
+---
+
+## Technologie Mise en Avant
+
+> Winston — logging professionnel multi-transport
+
+---
+
+## 🧰 Ma Stack Principale
 
 ```
 Frontend Mobile  →  React Native  •  Expo  •  React Navigation
@@ -51,12 +51,12 @@ Outils           →  Git  •  GitHub  •  Winston  •  Node-cron
 
 ---
 
-##  Collaboration
+## 📬 Collaboration
 
 Tu as un projet intéressant ? Une idée à concrétiser ?
 N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collaborations.
 
 ---
 
-*Dernière mise à jour : 21/04/2026 à 04:05*
-<!-- auto-update: 2026-04-21 04:05:03 -->
+*Dernière mise à jour : 21/04/2026 à 04:12*
+<!-- auto-update: 2026-04-21 04:12:42 -->
