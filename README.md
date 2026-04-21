@@ -8,33 +8,33 @@
 
 Disponible — passionné par le développement mobile et backend
 
-😄 Humeur : Fier des progrès accomplis, motivé pour la suite
+😄 Humeur : Plein d'idées nouvelles à implémenter
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Exploration des nouvelles fonctionnalités de MongoDB 7
+Implémentation d'un rate limiting pour protéger l'API
 
-📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
+📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
 
 ---
 
 ## 💬 Pensée du Moment
 
-🌺 *"Un code bien documenté est un cadeau pour ton futur toi."*
+🔮 *"Le futur appartient aux développeurs qui continuent d'apprendre même quand personne ne les regarde."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Backup automatique + monitoring = sommeil tranquille pour tout développeur sérieux.
+🧩 **Conseil du jour :** Utilise des branches git pour chaque fonctionnalité — garde main toujours stable et déployable.
 
 ---
 
 ## Technologie Mise en Avant
 
-> React Navigation — navigation fluide et intuitive
+> Reanimated — animations natives 60fps sur mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 21/04/2026 à 22:10*
-<!-- auto-update: 2026-04-21 22:10:16 -->
+*Dernière mise à jour : 21/04/2026 à 22:15*
+<!-- auto-update: 2026-04-21 22:15:02 -->
