@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Disponible pour des projets freelance ou collaboratifs
+Actif et motivé — cherche de nouveaux défis
 
-😄 Humeur : Fier des progrès accomplis, motivé pour la suite
+😄 Humeur : Session de nuit — le calme favorise la concentration
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Optimisation des requêtes MongoDB avec des index personnalisés
+Travail sur l'expérience utilisateur et l'accessibilité
 
-📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
+📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Les grands projets commencent toujours par un simple commit."*
+🎪 *"L'expérience, c'est le nom qu'on donne à nos erreurs. Alors, expérimente beaucoup."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Une API bien conçue est une API que les développeurs adorent utiliser sans lire la doc.
+🧩 **Conseil du jour :** Écris d'abord des tests, ensuite le code. Le TDD te fera gagner des heures de débogage.
 
 ---
 
 ## Technologie Mise en Avant
 
-> i18n — internationalisation et support RTL arabe/français
+> Expo Notifications — notifications push natives
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 21/04/2026 à 16:45*
-<!-- auto-update: 2026-04-21 16:45:03 -->
+*Dernière mise à jour : 21/04/2026 à 16:50*
+<!-- auto-update: 2026-04-21 16:50:02 -->
