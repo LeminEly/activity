@@ -6,9 +6,9 @@
 
 ## Statut Actuel
 
-Connecté — ouvert aux code reviews et retours constructifs
+Actif — toujours partant pour apprendre quelque chose de nouveau
 
-😄 Humeur : Concentré et dans le flow total
+😄 Humeur : Fier des progrès accomplis, motivé pour la suite
 
 ---
 
@@ -16,25 +16,25 @@ Connecté — ouvert aux code reviews et retours constructifs
 
 Déploiement d'une nouvelle version de l'application en staging
 
-📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
+📌 **Objectif cette semaine :** Mettre en place des alertes de monitoring en production
 
 ---
 
 ## 💬 Pensée du Moment
 
-🌟 *"Un bon développeur n'est pas celui qui connaît tout, mais celui qui sait comment trouver ce qu'il ne sait pas."*
+*"Chaque ligne de code est une opportunité de résoudre un problème réel pour quelqu'un."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
+🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
 
 ---
 
 ## Technologie Mise en Avant
 
-> JWT — authentification stateless et sécurisée
+> Express Rate Limit — protection contre les attaques DDoS
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 21/04/2026 à 04:30*
-<!-- auto-update: 2026-04-21 04:30:01 -->
+*Dernière mise à jour : 21/04/2026 à 04:35*
+<!-- auto-update: 2026-04-21 04:35:01 -->
