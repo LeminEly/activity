@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-Actuellement connecté et disponible pour collaborer
+Disponible pour des projets freelance ou collaboratifs
 
 😄 Humeur : Frais et motivé pour une nouvelle journée de dev
 
@@ -14,27 +14,27 @@ Actuellement connecté et disponible pour collaborer
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🔗 Intégration d'une API tierce pour enrichir les fonctionnalités
+🧪 Écriture de tests unitaires pour améliorer la couverture du code
 
-📌 **Objectif cette semaine :** Créer des composants réutilisables pour le design system
+📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Le code propre n'est pas écrit par chance — il est le résultat d'une discipline quotidienne."*
+🏄 *"Surfe sur les difficultés techniques au lieu de les fuir — c'est là que tu grandis le plus."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Garde tes fonctions courtes et focalisées sur une seule responsabilité.
+🧩 **Conseil du jour :** Un README clair et complet est souvent plus précieux que le code lui-même pour un nouveau contributeur.
 
 ---
 
 ## Technologie Mise en Avant
 
-> React Native — développement mobile cross-platform
+> Node.js — runtime JavaScript côté serveur ultra-rapide
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 21/04/2026 à 22:30*
-<!-- auto-update: 2026-04-21 22:30:02 -->
+*Dernière mise à jour : 21/04/2026 à 22:35*
+<!-- auto-update: 2026-04-21 22:35:02 -->
