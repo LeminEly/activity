@@ -6,9 +6,9 @@
 
 ## Statut Actuel
 
-Connecté — disponible pour discuter de vos projets
+Connecté — ouvert aux code reviews et retours constructifs
 
-😄 Humeur : Session de nuit — le calme favorise la concentration
+😄 Humeur : Lancé comme une fusée vers les objectifs du sprint
 
 ---
 
@@ -16,7 +16,7 @@ Connecté — disponible pour discuter de vos projets
 
 📚 Lecture de la documentation officielle de Socket.io
 
-📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
+📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
 
 ---
 
@@ -28,13 +28,13 @@ Connecté — disponible pour discuter de vos projets
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** La règle des 2 minutes : si ça prend moins de 2 minutes à faire, fais-le maintenant.
+🧩 **Conseil du jour :** Une API bien conçue est une API que les développeurs adorent utiliser sans lire la doc.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Express Rate Limit — protection contre les attaques DDoS
+> JWT — authentification stateless et sécurisée
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 21/04/2026 à 17:20*
-<!-- auto-update: 2026-04-21 17:20:10 -->
+*Dernière mise à jour : 21/04/2026 à 17:25*
+<!-- auto-update: 2026-04-21 17:25:03 -->
