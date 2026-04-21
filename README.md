@@ -6,17 +6,17 @@
 
 ## Statut Actuel
 
-Disponible pour des projets freelance ou collaboratifs
+Disponible pour du pair programming ou du mentoring
 
-😄 Humeur : Fier des progrès accomplis, motivé pour la suite
+😄 Humeur : Plein d'idées nouvelles à implémenter
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🧪 Écriture de tests unitaires pour améliorer la couverture du code
+🧹 Nettoyage du code mort et amélioration de la lisibilité
 
-📌 **Objectif cette semaine :** Intégrer des analytics pour mieux comprendre l'usage
+📌 **Objectif cette semaine :** Mettre en place un système de cache Redis
 
 ---
 
@@ -28,13 +28,13 @@ Disponible pour des projets freelance ou collaboratifs
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Un README clair et complet est souvent plus précieux que le code lui-même pour un nouveau contributeur.
+🧩 **Conseil du jour :** Nomme tes variables et fonctions comme si la personne qui lira ton code est un serial killer qui connaît ton adresse.
 
 ---
 
 ## Technologie Mise en Avant
 
-> REST API — architecture standard pour les services web
+> Mongoose — ODM élégant pour MongoDB et Node.js
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 21/04/2026 à 14:05*
-<!-- auto-update: 2026-04-21 14:05:02 -->
+*Dernière mise à jour : 21/04/2026 à 14:10*
+<!-- auto-update: 2026-04-21 14:10:03 -->
