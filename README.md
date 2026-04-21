@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Actuellement connecté et disponible pour collaborer
+Disponible — passionné par le développement mobile et backend
 
-😄 Humeur : En pleine forme et ultra productif
+😄 Humeur : Session de nuit — le calme favorise la concentration
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Exploration des nouvelles fonctionnalités de MongoDB 7
+Modélisation de la base de données avec Mongoose
 
-📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
+📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Apprendre une nouvelle technologie chaque mois, c'est devenir 12 fois meilleur chaque année."*
+*"Le code propre n'est pas écrit par chance — il est le résultat d'une discipline quotidienne."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
+🧩 **Conseil du jour :** Garde tes fonctions courtes et focalisées sur une seule responsabilité.
 
 ---
 
 ## Technologie Mise en Avant
 
-> React Navigation — navigation fluide et intuitive
+> Axios — client HTTP promesse-based pour les API
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 21/04/2026 à 21:40*
-<!-- auto-update: 2026-04-21 21:40:03 -->
+*Dernière mise à jour : 21/04/2026 à 21:45*
+<!-- auto-update: 2026-04-21 21:45:03 -->
