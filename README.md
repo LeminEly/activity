@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne et prêt à contribuer à des projets open source
+En ligne — toujours là pour aider la communauté dev
 
-😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
+😄 Humeur : Chargé à bloc et prêt à coder pendant des heures
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-📝 Rédaction de la documentation technique du projet
+Implémentation d'un rate limiting pour protéger l'API
 
-📌 **Objectif cette semaine :** Créer des composants réutilisables pour le design system
+📌 **Objectif cette semaine :** Mettre en place un système de cache Redis
 
 ---
 
 ## 💬 Pensée du Moment
 
-🎪 *"L'expérience, c'est le nom qu'on donne à nos erreurs. Alors, expérimente beaucoup."*
+✨ *"Contribuer à l'open source, c'est laisser sa trace dans l'histoire du développement."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Apprends à utiliser git bisect — ça peut te faire gagner des heures pour localiser un bug.
+🧩 **Conseil du jour :** Utilise des branches git pour chaque fonctionnalité — garde main toujours stable et déployable.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Node.js — runtime JavaScript côté serveur ultra-rapide
+> Expo Notifications — notifications push natives
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 21/04/2026 à 14:35*
-<!-- auto-update: 2026-04-21 14:35:03 -->
+*Dernière mise à jour : 21/04/2026 à 14:40*
+<!-- auto-update: 2026-04-21 14:40:03 -->
