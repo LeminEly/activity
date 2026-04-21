@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Connecté — ouvert aux code reviews et retours constructifs
+Actif — toujours partant pour apprendre quelque chose de nouveau
 
-😄 Humeur : Musique dans les oreilles, code dans les doigts
+😄 Humeur : En feu — les idées fusent et le code coule
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Optimisation des requêtes MongoDB avec des index personnalisés
+🔄 Mise en place d'un pipeline CI/CD avec GitHub Actions
 
-📌 **Objectif cette semaine :** Implémenter une nouvelle fonctionnalité de recherche avancée
+📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Le code propre n'est pas écrit par chance — il est le résultat d'une discipline quotidienne."*
+*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
+🧩 **Conseil du jour :** Ne pousse jamais sur main directement en production sans tests automatisés.
 
 ---
 
 ## Technologie Mise en Avant
 
-> REST API — architecture standard pour les services web
+> Lottie — animations vectorielles haute performance
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 21/04/2026 à 14:45*
-<!-- auto-update: 2026-04-21 14:45:02 -->
+*Dernière mise à jour : 21/04/2026 à 14:50*
+<!-- auto-update: 2026-04-21 14:50:03 -->
