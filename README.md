@@ -6,15 +6,15 @@
 
 ## Statut Actuel
 
-En ligne — toujours là pour aider la communauté dev
+Actif — en train de construire quelque chose d'intéressant
 
-😄 Humeur : Plein d'idées nouvelles à implémenter
+😄 Humeur : En mode réflexion profonde sur l'architecture
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🧹 Nettoyage du code mort et amélioration de la lisibilité
+Configuration de l'environnement Docker pour le développement
 
 📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
 
@@ -22,19 +22,19 @@ En ligne — toujours là pour aider la communauté dev
 
 ## 💬 Pensée du Moment
 
-🌟 *"Un bon développeur n'est pas celui qui connaît tout, mais celui qui sait comment trouver ce qu'il ne sait pas."*
+🌺 *"Un code bien documenté est un cadeau pour ton futur toi."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
+🧩 **Conseil du jour :** La règle des 2 minutes : si ça prend moins de 2 minutes à faire, fais-le maintenant.
 
 ---
 
 ## Technologie Mise en Avant
 
-> AsyncStorage — persistance des données locales sur mobile
+> Cloudinary — gestion intelligente des médias dans le cloud
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 22/04/2026 à 15:00*
-<!-- auto-update: 2026-04-22 15:00:02 -->
+*Dernière mise à jour : 22/04/2026 à 15:05*
+<!-- auto-update: 2026-04-22 15:05:02 -->
