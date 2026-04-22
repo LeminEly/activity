@@ -6,17 +6,17 @@
 
 ## Statut Actuel
 
-En ligne et prêt à contribuer à des projets open source
+Connecté — ouvert aux code reviews et retours constructifs
 
-😄 Humeur : Fier des progrès accomplis, motivé pour la suite
+😄 Humeur : Confiant et serein face aux défis techniques
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-📦 Mise à jour des dépendances npm vers les dernières versions stables
+Modélisation de la base de données avec Mongoose
 
-📌 **Objectif cette semaine :** Créer des composants réutilisables pour le design system
+📌 **Objectif cette semaine :** Mettre en place des alertes de monitoring en production
 
 ---
 
@@ -28,13 +28,13 @@ En ligne et prêt à contribuer à des projets open source
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise des branches git pour chaque fonctionnalité — garde main toujours stable et déployable.
+🧩 **Conseil du jour :** La sécurité n'est pas une fonctionnalité qu'on ajoute à la fin — elle se conçoit dès le début.
 
 ---
 
 ## Technologie Mise en Avant
 
-> i18n — internationalisation et support RTL arabe/français
+> Socket.io — communication temps réel bidirectionnelle
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 22/04/2026 à 09:30*
-<!-- auto-update: 2026-04-22 09:30:03 -->
+*Dernière mise à jour : 22/04/2026 à 09:35*
+<!-- auto-update: 2026-04-22 09:35:03 -->
