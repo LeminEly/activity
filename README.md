@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne — prêt à collaborer sur des idées innovantes
+Connecté — ouvert aux code reviews et retours constructifs
 
-😄 Humeur : Café en main, prêt à conquérir le code
+😄 Humeur : En feu — les idées fusent et le code coule
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🧪 Écriture de tests unitaires pour améliorer la couverture du code
+🌍 Ajout du support multilingue français/arabe dans l'application
 
-📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
+📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
 
 ---
 
 ## 💬 Pensée du Moment
 
-🎪 *"L'expérience, c'est le nom qu'on donne à nos erreurs. Alors, expérimente beaucoup."*
+*"Programmer, c'est comme composer de la musique : l'harmonie vient de la pratique."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Prends des pauses régulières — un cerveau reposé résout les problèmes 10 fois plus vite.
+🧩 **Conseil du jour :** Documente ton API dès que tu la crées — pas après coup, quand tu as tout oublié.
 
 ---
 
 ## Technologie Mise en Avant
 
-> AsyncStorage — persistance des données locales sur mobile
+> Expo Notifications — notifications push natives
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 22/04/2026 à 08:50*
-<!-- auto-update: 2026-04-22 08:50:03 -->
+*Dernière mise à jour : 22/04/2026 à 08:55*
+<!-- auto-update: 2026-04-22 08:55:09 -->
