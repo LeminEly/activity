@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Connecté — ouvert aux code reviews et retours constructifs
+En ligne et prêt à contribuer à des projets open source
 
-😄 Humeur : Confiant et serein face aux défis techniques
+😄 Humeur : Chargé à bloc et prêt à coder pendant des heures
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Modélisation de la base de données avec Mongoose
+Développement d'une interface mobile avec React Native et Expo
 
-📌 **Objectif cette semaine :** Mettre en place des alertes de monitoring en production
+📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Apprendre une nouvelle technologie chaque mois, c'est devenir 12 fois meilleur chaque année."*
+🌈 *"La différence entre un bon et un excellent développeur, c'est la curiosité insatiable."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** La sécurité n'est pas une fonctionnalité qu'on ajoute à la fin — elle se conçoit dès le début.
+🧩 **Conseil du jour :** Documente ton API dès que tu la crées — pas après coup, quand tu as tout oublié.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Socket.io — communication temps réel bidirectionnelle
+> Express.js — framework web minimaliste et flexible
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 22/04/2026 à 09:35*
-<!-- auto-update: 2026-04-22 09:35:03 -->
+*Dernière mise à jour : 22/04/2026 à 09:40*
+<!-- auto-update: 2026-04-22 09:40:02 -->
