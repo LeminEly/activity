@@ -6,23 +6,23 @@
 
 ## Statut Actuel
 
-Actuellement connecté et disponible pour collaborer
+Prêt à rejoindre une équipe ambitieuse
 
-😄 Humeur : Concentré et dans le flow total
+😄 Humeur : Café en main, prêt à conquérir le code
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Analyse des logs avec Winston pour le monitoring
+Travail sur l'expérience utilisateur et l'accessibilité
 
-📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
+📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Chaque ligne de code est une opportunité de résoudre un problème réel pour quelqu'un."*
+🌟 *"Un bon développeur n'est pas celui qui connaît tout, mais celui qui sait comment trouver ce qu'il ne sait pas."*
 
 ---
 
@@ -34,7 +34,7 @@ Analyse des logs avec Winston pour le monitoring
 
 ## Technologie Mise en Avant
 
-> JWT — authentification stateless et sécurisée
+> Cloudinary — gestion intelligente des médias dans le cloud
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 22/04/2026 à 15:40*
-<!-- auto-update: 2026-04-22 15:40:02 -->
+*Dernière mise à jour : 22/04/2026 à 15:45*
+<!-- auto-update: 2026-04-22 15:45:02 -->
