@@ -6,9 +6,9 @@
 
 ## Statut Actuel
 
-Actif et motivé — cherche de nouveaux défis
+Disponible pour des projets freelance ou collaboratifs
 
-😄 Humeur : Plein d'idées nouvelles à implémenter
+😄 Humeur : Frais et motivé pour une nouvelle journée de dev
 
 ---
 
@@ -16,25 +16,25 @@ Actif et motivé — cherche de nouveaux défis
 
 🌍 Ajout du support multilingue français/arabe dans l'application
 
-📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
+📌 **Objectif cette semaine :** Documenter toutes les routes API avec Swagger
 
 ---
 
 ## 💬 Pensée du Moment
 
-🌺 *"Un code bien documenté est un cadeau pour ton futur toi."*
+✨ *"Contribuer à l'open source, c'est laisser sa trace dans l'histoire du développement."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Nomme tes variables et fonctions comme si la personne qui lira ton code est un serial killer qui connaît ton adresse.
+🧩 **Conseil du jour :** Un README clair et complet est souvent plus précieux que le code lui-même pour un nouveau contributeur.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Socket.io — communication temps réel bidirectionnelle
+> React Navigation — navigation fluide et intuitive
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 22/04/2026 à 15:50*
-<!-- auto-update: 2026-04-22 15:50:02 -->
+*Dernière mise à jour : 22/04/2026 à 15:55*
+<!-- auto-update: 2026-04-22 15:55:02 -->
