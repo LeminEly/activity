@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Prêt à rejoindre une équipe ambitieuse
+Actif et motivé — cherche de nouveaux défis
 
-😄 Humeur : Café en main, prêt à conquérir le code
+😄 Humeur : Plein d'idées nouvelles à implémenter
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Travail sur l'expérience utilisateur et l'accessibilité
+🌍 Ajout du support multilingue français/arabe dans l'application
 
-📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
+📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
 
 ---
 
 ## 💬 Pensée du Moment
 
-🌟 *"Un bon développeur n'est pas celui qui connaît tout, mais celui qui sait comment trouver ce qu'il ne sait pas."*
+🌺 *"Un code bien documenté est un cadeau pour ton futur toi."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Garde tes fonctions courtes et focalisées sur une seule responsabilité.
+🧩 **Conseil du jour :** Nomme tes variables et fonctions comme si la personne qui lira ton code est un serial killer qui connaît ton adresse.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Cloudinary — gestion intelligente des médias dans le cloud
+> Socket.io — communication temps réel bidirectionnelle
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 22/04/2026 à 15:45*
-<!-- auto-update: 2026-04-22 15:45:02 -->
+*Dernière mise à jour : 22/04/2026 à 15:50*
+<!-- auto-update: 2026-04-22 15:50:02 -->
