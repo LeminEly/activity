@@ -6,9 +6,9 @@
 
 ## Statut Actuel
 
-Actif et motivé — cherche de nouveaux défis
+En ligne — toujours là pour aider la communauté dev
 
-😄 Humeur : Confiant et serein face aux défis techniques
+😄 Humeur : Plein d'idées nouvelles à implémenter
 
 ---
 
@@ -16,25 +16,25 @@ Actif et motivé — cherche de nouveaux défis
 
 🧹 Nettoyage du code mort et amélioration de la lisibilité
 
-📌 **Objectif cette semaine :** Créer des composants réutilisables pour le design system
+📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
 
 ---
 
 ## 💬 Pensée du Moment
 
-💎 *"Construis des choses qui durent. Écris du code dont tu seras fier dans 5 ans."*
+🌟 *"Un bon développeur n'est pas celui qui connaît tout, mais celui qui sait comment trouver ce qu'il ne sait pas."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Prends des pauses régulières — un cerveau reposé résout les problèmes 10 fois plus vite.
+🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Node-cron — planification de tâches automatisées
+> AsyncStorage — persistance des données locales sur mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 22/04/2026 à 14:55*
-<!-- auto-update: 2026-04-22 14:55:45 -->
+*Dernière mise à jour : 22/04/2026 à 15:00*
+<!-- auto-update: 2026-04-22 15:00:02 -->
