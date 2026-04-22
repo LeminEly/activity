@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Connecté — disponible pour discuter de vos projets
+En ligne — prêt à collaborer sur des idées innovantes
 
-😄 Humeur : Musique dans les oreilles, code dans les doigts
+😄 Humeur : Café en main, prêt à conquérir le code
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-☁️ Intégration de Cloudinary pour la gestion des médias
+🧪 Écriture de tests unitaires pour améliorer la couverture du code
 
-📌 **Objectif cette semaine :** Mettre en place des alertes de monitoring en production
+📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
 
 ---
 
 ## 💬 Pensée du Moment
 
-💡 *"Le code que tu écris aujourd'hui est l'infrastructure de demain."*
+🎪 *"L'expérience, c'est le nom qu'on donne à nos erreurs. Alors, expérimente beaucoup."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Toujours valider les données côté serveur, même si tu les valides déjà côté client.
+🧩 **Conseil du jour :** Prends des pauses régulières — un cerveau reposé résout les problèmes 10 fois plus vite.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Cloudinary — gestion intelligente des médias dans le cloud
+> AsyncStorage — persistance des données locales sur mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 22/04/2026 à 08:45*
-<!-- auto-update: 2026-04-22 08:45:03 -->
+*Dernière mise à jour : 22/04/2026 à 08:50*
+<!-- auto-update: 2026-04-22 08:50:03 -->
