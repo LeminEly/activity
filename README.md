@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-Prêt à rejoindre une équipe ambitieuse
+Disponible — passionné par le développement mobile et backend
 
 😄 Humeur : Frais et motivé pour une nouvelle journée de dev
 
@@ -14,27 +14,27 @@ Prêt à rejoindre une équipe ambitieuse
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Exploration des nouvelles fonctionnalités de MongoDB 7
+Travail sur l'expérience utilisateur et l'accessibilité
 
-📌 **Objectif cette semaine :** Mettre en place un système de cache Redis
+📌 **Objectif cette semaine :** Mettre en place des alertes de monitoring en production
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Les nuits de débogage intenses forment les développeurs exceptionnels."*
+💎 *"Construis des choses qui durent. Écris du code dont tu seras fier dans 5 ans."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Prends des pauses régulières — un cerveau reposé résout les problèmes 10 fois plus vite.
+🧩 **Conseil du jour :** Backup automatique + monitoring = sommeil tranquille pour tout développeur sérieux.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Express.js — framework web minimaliste et flexible
+> Expo SDK — écosystème complet pour le développement mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 22/04/2026 à 09:20*
-<!-- auto-update: 2026-04-22 09:20:03 -->
+*Dernière mise à jour : 22/04/2026 à 09:25*
+<!-- auto-update: 2026-04-22 09:25:05 -->
