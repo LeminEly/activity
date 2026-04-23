@@ -6,15 +6,15 @@
 
 ## Statut Actuel
 
-Prêt à rejoindre une équipe ambitieuse
+Actif — en train de construire quelque chose d'intéressant
 
-😄 Humeur : En feu — les idées fusent et le code coule
+😄 Humeur : En pleine forme et ultra productif
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🧪 Écriture de tests unitaires pour améliorer la couverture du code
+🧹 Nettoyage du code mort et amélioration de la lisibilité
 
 📌 **Objectif cette semaine :** Créer des composants réutilisables pour le design system
 
@@ -22,19 +22,19 @@ Prêt à rejoindre une équipe ambitieuse
 
 ## 💬 Pensée du Moment
 
-*"Programmer, c'est comme composer de la musique : l'harmonie vient de la pratique."*
+🌈 *"La différence entre un bon et un excellent développeur, c'est la curiosité insatiable."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise toujours des variables d'environnement pour tes secrets — jamais de tokens en dur dans le code.
+🧩 **Conseil du jour :** Avant d'optimiser, mesure. Ne suppose jamais où est le vrai goulot d'étranglement.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Express Rate Limit — protection contre les attaques DDoS
+> Axios — client HTTP promesse-based pour les API
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 23/04/2026 à 07:45*
-<!-- auto-update: 2026-04-23 07:45:02 -->
+*Dernière mise à jour : 23/04/2026 à 07:50*
+<!-- auto-update: 2026-04-23 07:50:04 -->
