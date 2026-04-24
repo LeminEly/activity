@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Disponible pour des projets freelance ou collaboratifs
+En ligne — prêt à collaborer sur des idées innovantes
 
-😄 Humeur : Café en main, prêt à conquérir le code
+😄 Humeur : En pleine forme et ultra productif
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-📦 Mise à jour des dépendances npm vers les dernières versions stables
+Implémentation d'un rate limiting pour protéger l'API
 
-📌 **Objectif cette semaine :** Mettre à jour toutes les dépendances obsolètes
+📌 **Objectif cette semaine :** Documenter toutes les routes API avec Swagger
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Chaque ligne de code est une opportunité de résoudre un problème réel pour quelqu'un."*
+*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** La règle des 2 minutes : si ça prend moins de 2 minutes à faire, fais-le maintenant.
+🧩 **Conseil du jour :** Avant d'optimiser, mesure. Ne suppose jamais où est le vrai goulot d'étranglement.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Mongoose — ODM élégant pour MongoDB et Node.js
+> i18n — internationalisation et support RTL arabe/français
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 24/04/2026 à 11:00*
-<!-- auto-update: 2026-04-24 11:00:02 -->
+*Dernière mise à jour : 24/04/2026 à 11:05*
+<!-- auto-update: 2026-04-24 11:05:02 -->
