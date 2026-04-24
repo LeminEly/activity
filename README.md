@@ -6,17 +6,17 @@
 
 ## Statut Actuel
 
-Connecté — ouvert aux code reviews et retours constructifs
+En ligne — prêt à collaborer sur des idées innovantes
 
-😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
+😄 Humeur : En pleine forme et ultra productif
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un système de notifications push avec Expo
+Travail sur l'expérience utilisateur et l'accessibilité
 
-📌 **Objectif cette semaine :** Mettre en place un système de cache Redis
+📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
 
 ---
 
@@ -28,13 +28,13 @@ Implémentation d'un système de notifications push avec Expo
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** La sécurité n'est pas une fonctionnalité qu'on ajoute à la fin — elle se conçoit dès le début.
+🧩 **Conseil du jour :** Fais des commits petits et fréquents plutôt qu'un seul gros commit — c'est plus facile à revoir et à réverter.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Winston — logging professionnel multi-transport
+> Cloudinary — gestion intelligente des médias dans le cloud
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 24/04/2026 à 09:40*
-<!-- auto-update: 2026-04-24 09:40:03 -->
+*Dernière mise à jour : 24/04/2026 à 09:45*
+<!-- auto-update: 2026-04-24 09:45:03 -->
