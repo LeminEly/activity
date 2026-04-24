@@ -6,15 +6,15 @@
 
 ## Statut Actuel
 
-Disponible pour des projets freelance ou collaboratifs
+Présent et concentré sur l'amélioration continue
 
-😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
+😄 Humeur : Concentré et dans le flow total
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Modélisation de la base de données avec Mongoose
+Développement d'une interface mobile avec React Native et Expo
 
 📌 **Objectif cette semaine :** Refactorer le module d'authentification pour plus de sécurité
 
@@ -22,19 +22,19 @@ Modélisation de la base de données avec Mongoose
 
 ## 💬 Pensée du Moment
 
-*"Apprendre une nouvelle technologie chaque mois, c'est devenir 12 fois meilleur chaque année."*
+*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Une API bien conçue est une API que les développeurs adorent utiliser sans lire la doc.
+🧩 **Conseil du jour :** Toujours valider les données côté serveur, même si tu les valides déjà côté client.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Reanimated — animations natives 60fps sur mobile
+> i18n — internationalisation et support RTL arabe/français
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 24/04/2026 à 08:40*
-<!-- auto-update: 2026-04-24 08:40:03 -->
+*Dernière mise à jour : 24/04/2026 à 08:45*
+<!-- auto-update: 2026-04-24 08:45:03 -->
