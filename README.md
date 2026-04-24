@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Disponible — passionné par le développement mobile et backend
+Présent et concentré sur l'amélioration continue
 
-😄 Humeur : En pleine forme et ultra productif
+😄 Humeur : En feu — les idées fusent et le code coule
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Travail sur l'expérience utilisateur et l'accessibilité
+Implémentation d'un système de notifications push avec Expo
 
-📌 **Objectif cette semaine :** Implémenter une nouvelle fonctionnalité de recherche avancée
+📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Programmer, c'est comme composer de la musique : l'harmonie vient de la pratique."*
+🎪 *"L'expérience, c'est le nom qu'on donne à nos erreurs. Alors, expérimente beaucoup."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Backup automatique + monitoring = sommeil tranquille pour tout développeur sérieux.
+🧩 **Conseil du jour :** Apprends à utiliser git bisect — ça peut te faire gagner des heures pour localiser un bug.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Express.js — framework web minimaliste et flexible
+> MongoDB — base de données NoSQL flexible et scalable
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 24/04/2026 à 11:20*
-<!-- auto-update: 2026-04-24 11:20:03 -->
+*Dernière mise à jour : 24/04/2026 à 11:25*
+<!-- auto-update: 2026-04-24 11:25:03 -->
