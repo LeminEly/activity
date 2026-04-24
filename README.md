@@ -6,9 +6,9 @@
 
 ## Statut Actuel
 
-Actif et motivé — cherche de nouveaux défis
+Disponible — passionné par le développement mobile et backend
 
-😄 Humeur : Café en main, prêt à conquérir le code
+😄 Humeur : Concentré et dans le flow total
 
 ---
 
@@ -16,25 +16,25 @@ Actif et motivé — cherche de nouveaux défis
 
 Implémentation d'un système de notifications push avec Expo
 
-📌 **Objectif cette semaine :** Implémenter une nouvelle fonctionnalité de recherche avancée
+📌 **Objectif cette semaine :** Mettre à jour toutes les dépendances obsolètes
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Apprendre une nouvelle technologie chaque mois, c'est devenir 12 fois meilleur chaque année."*
+*"Programmer, c'est comme composer de la musique : l'harmonie vient de la pratique."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise toujours des variables d'environnement pour tes secrets — jamais de tokens en dur dans le code.
+🧩 **Conseil du jour :** Apprends les concepts fondamentaux avant les frameworks — ils resteront longtemps après que les frameworks disparaissent.
 
 ---
 
 ## Technologie Mise en Avant
 
-> REST API — architecture standard pour les services web
+> Mongoose — ODM élégant pour MongoDB et Node.js
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 24/04/2026 à 09:50*
-<!-- auto-update: 2026-04-24 09:50:03 -->
+*Dernière mise à jour : 24/04/2026 à 09:55*
+<!-- auto-update: 2026-04-24 09:55:02 -->
