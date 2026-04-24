@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Actif — en train de construire quelque chose d'intéressant
+Connecté — ouvert aux code reviews et retours constructifs
 
-😄 Humeur : Frais et motivé pour une nouvelle journée de dev
+😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Exploration des nouvelles fonctionnalités de MongoDB 7
+Implémentation d'un système de notifications push avec Expo
 
-📌 **Objectif cette semaine :** Documenter toutes les routes API avec Swagger
+📌 **Objectif cette semaine :** Mettre en place un système de cache Redis
 
 ---
 
 ## 💬 Pensée du Moment
 
-🎪 *"L'expérience, c'est le nom qu'on donne à nos erreurs. Alors, expérimente beaucoup."*
+*"Les grands projets commencent toujours par un simple commit."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Documente ton API dès que tu la crées — pas après coup, quand tu as tout oublié.
+🧩 **Conseil du jour :** La sécurité n'est pas une fonctionnalité qu'on ajoute à la fin — elle se conçoit dès le début.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Express Rate Limit — protection contre les attaques DDoS
+> Winston — logging professionnel multi-transport
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 24/04/2026 à 09:35*
-<!-- auto-update: 2026-04-24 09:35:09 -->
+*Dernière mise à jour : 24/04/2026 à 09:40*
+<!-- auto-update: 2026-04-24 09:40:03 -->
