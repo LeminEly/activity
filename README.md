@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Disponible — passionné par le développement mobile et backend
+Actif — en train de construire quelque chose d'intéressant
 
-😄 Humeur : En feu — les idées fusent et le code coule
+😄 Humeur : En mode réflexion profonde sur l'architecture
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Développement d'une interface mobile avec React Native et Expo
+🎨 Amélioration de l'UI avec des animations Lottie et Reanimated
 
-📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
+📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
 
 ---
 
 ## 💬 Pensée du Moment
 
-💡 *"Le code que tu écris aujourd'hui est l'infrastructure de demain."*
+✨ *"Contribuer à l'open source, c'est laisser sa trace dans l'histoire du développement."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Avant d'optimiser, mesure. Ne suppose jamais où est le vrai goulot d'étranglement.
+🧩 **Conseil du jour :** Toujours valider les données côté serveur, même si tu les valides déjà côté client.
 
 ---
 
 ## Technologie Mise en Avant
 
-> JWT — authentification stateless et sécurisée
+> Expo SDK — écosystème complet pour le développement mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 15:00*
-<!-- auto-update: 2026-04-26 15:00:03 -->
+*Dernière mise à jour : 26/04/2026 à 15:05*
+<!-- auto-update: 2026-04-26 15:05:03 -->
