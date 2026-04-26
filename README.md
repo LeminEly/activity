@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Actif et motivé — cherche de nouveaux défis
+En ligne — toujours là pour aider la communauté dev
 
-😄 Humeur : Confiant et serein face aux défis techniques
+😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🎨 Amélioration de l'UI avec des animations Lottie et Reanimated
+Renforcement de la sécurité avec JWT et refresh tokens
 
-📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
+📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Chaque bug résolu est une victoire. Chaque fonctionnalité livrée est une fierté."*
+🏄 *"Surfe sur les difficultés techniques au lieu de les fuir — c'est là que tu grandis le plus."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Une API bien conçue est une API que les développeurs adorent utiliser sans lire la doc.
+🧩 **Conseil du jour :** Ne pousse jamais sur main directement en production sans tests automatisés.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Expo SDK — écosystème complet pour le développement mobile
+> Axios — client HTTP promesse-based pour les API
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 19:35*
-<!-- auto-update: 2026-04-26 19:35:03 -->
+*Dernière mise à jour : 26/04/2026 à 19:40*
+<!-- auto-update: 2026-04-26 19:40:03 -->
