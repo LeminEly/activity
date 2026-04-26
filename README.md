@@ -6,15 +6,15 @@
 
 ## Statut Actuel
 
-Connecté — ouvert aux code reviews et retours constructifs
+En ligne — toujours là pour aider la communauté dev
 
-😄 Humeur : En feu — les idées fusent et le code coule
+😄 Humeur : Musique dans les oreilles, code dans les doigts
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Analyse des logs avec Winston pour le monitoring
+Renforcement de la sécurité avec JWT et refresh tokens
 
 📌 **Objectif cette semaine :** Refactorer le module d'authentification pour plus de sécurité
 
@@ -28,13 +28,13 @@ Analyse des logs avec Winston pour le monitoring
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
+🧩 **Conseil du jour :** Utilise toujours des variables d'environnement pour tes secrets — jamais de tokens en dur dans le code.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Reanimated — animations natives 60fps sur mobile
+> React Navigation — navigation fluide et intuitive
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 22:20*
-<!-- auto-update: 2026-04-26 22:20:03 -->
+*Dernière mise à jour : 26/04/2026 à 22:25*
+<!-- auto-update: 2026-04-26 22:25:03 -->
