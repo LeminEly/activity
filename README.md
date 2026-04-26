@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne — ouvert aux nouvelles opportunités
+En ligne et prêt à contribuer à des projets open source
 
-😄 Humeur : Plein d'idées nouvelles à implémenter
+😄 Humeur : En pleine forme et ultra productif
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Configuration de l'environnement Docker pour le développement
+Implémentation d'un rate limiting pour protéger l'API
 
-📌 **Objectif cette semaine :** Implémenter une nouvelle fonctionnalité de recherche avancée
+📌 **Objectif cette semaine :** Mettre en place des alertes de monitoring en production
 
 ---
 
 ## 💬 Pensée du Moment
 
-💎 *"Construis des choses qui durent. Écris du code dont tu seras fier dans 5 ans."*
+*"Apprendre une nouvelle technologie chaque mois, c'est devenir 12 fois meilleur chaque année."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Documente ton API dès que tu la crées — pas après coup, quand tu as tout oublié.
+🧩 **Conseil du jour :** Log intelligemment — trop de logs = pas de logs utiles. Trop peu = debugging impossible en production.
 
 ---
 
 ## Technologie Mise en Avant
 
-> AsyncStorage — persistance des données locales sur mobile
+> Cloudinary — gestion intelligente des médias dans le cloud
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 14:35*
-<!-- auto-update: 2026-04-26 14:35:03 -->
+*Dernière mise à jour : 26/04/2026 à 14:40*
+<!-- auto-update: 2026-04-26 14:40:03 -->
