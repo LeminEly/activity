@@ -8,15 +8,15 @@
 
 En ligne — ouvert aux nouvelles opportunités
 
-😄 Humeur : Café en main, prêt à conquérir le code
+😄 Humeur : Chargé à bloc et prêt à coder pendant des heures
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🧪 Écriture de tests unitaires pour améliorer la couverture du code
+Développement d'une interface mobile avec React Native et Expo
 
-📌 **Objectif cette semaine :** Améliorer l'accessibilité de l'application mobile
+📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
 
 ---
 
@@ -28,7 +28,7 @@ En ligne — ouvert aux nouvelles opportunités
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise des branches git pour chaque fonctionnalité — garde main toujours stable et déployable.
+🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 18:35*
-<!-- auto-update: 2026-04-26 18:35:03 -->
+*Dernière mise à jour : 26/04/2026 à 18:40*
+<!-- auto-update: 2026-04-26 18:40:02 -->
