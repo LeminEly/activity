@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne et prêt à contribuer à des projets open source
+Prêt à rejoindre une équipe ambitieuse
 
-😄 Humeur : Confiant et serein face aux défis techniques
+😄 Humeur : Musique dans les oreilles, code dans les doigts
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🎨 Amélioration de l'UI avec des animations Lottie et Reanimated
+Optimisation des requêtes MongoDB avec des index personnalisés
 
-📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
+📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Les grands projets commencent toujours par un simple commit."*
+*"Programmer, c'est comme composer de la musique : l'harmonie vient de la pratique."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Fais des code reviews régulières — même sur ton propre code après quelques jours.
+🧩 **Conseil du jour :** Apprends les raccourcis de ton éditeur — chaque seconde économisée se multiplie par des milliers d'utilisations.
 
 ---
 
 ## Technologie Mise en Avant
 
-> React Native — développement mobile cross-platform
+> Mongoose — ODM élégant pour MongoDB et Node.js
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 13:50*
-<!-- auto-update: 2026-04-26 13:50:11 -->
+*Dernière mise à jour : 26/04/2026 à 13:55*
+<!-- auto-update: 2026-04-26 13:55:11 -->
