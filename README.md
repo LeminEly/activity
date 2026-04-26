@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Actif et motivé — cherche de nouveaux défis
+Disponible pour des projets freelance ou collaboratifs
 
-😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
+😄 Humeur : Café en main, prêt à conquérir le code
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-💬 Développement d'un système de chat temps réel avec Socket.io
+🧪 Écriture de tests unitaires pour améliorer la couverture du code
 
-📌 **Objectif cette semaine :** Implémenter une nouvelle fonctionnalité de recherche avancée
+📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
 
 ---
 
 ## 💬 Pensée du Moment
 
-🦋 *"Chaque refactoring est une métamorphose — du chaos vers l'élégance."*
+💎 *"Construis des choses qui durent. Écris du code dont tu seras fier dans 5 ans."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Nomme tes variables et fonctions comme si la personne qui lira ton code est un serial killer qui connaît ton adresse.
+🧩 **Conseil du jour :** Apprends à utiliser git bisect — ça peut te faire gagner des heures pour localiser un bug.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Axios — client HTTP promesse-based pour les API
+> Reanimated — animations natives 60fps sur mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 20:10*
-<!-- auto-update: 2026-04-26 20:10:03 -->
+*Dernière mise à jour : 26/04/2026 à 20:15*
+<!-- auto-update: 2026-04-26 20:15:02 -->
