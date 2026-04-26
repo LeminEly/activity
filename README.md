@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Disponible — passionné par le développement mobile et backend
+En ligne — prêt à collaborer sur des idées innovantes
 
-😄 Humeur : Chargé à bloc et prêt à coder pendant des heures
+😄 Humeur : Café en main, prêt à conquérir le code
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-📚 Lecture de la documentation officielle de Socket.io
+Modélisation de la base de données avec Mongoose
 
-📌 **Objectif cette semaine :** Documenter toutes les routes API avec Swagger
+📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Apprendre une nouvelle technologie chaque mois, c'est devenir 12 fois meilleur chaque année."*
+💪 *"La persévérance dans le code, c'est écrire la même fonction 10 fois jusqu'à ce qu'elle soit parfaite."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** La sécurité n'est pas une fonctionnalité qu'on ajoute à la fin — elle se conçoit dès le début.
+🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Winston — logging professionnel multi-transport
+> Cloudinary — gestion intelligente des médias dans le cloud
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 23:05*
-<!-- auto-update: 2026-04-26 23:05:02 -->
+*Dernière mise à jour : 26/04/2026 à 23:10*
+<!-- auto-update: 2026-04-26 23:10:02 -->
