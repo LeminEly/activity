@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Disponible pour du pair programming ou du mentoring
+Connecté — ouvert aux code reviews et retours constructifs
 
-😄 Humeur : En feu — les idées fusent et le code coule
+😄 Humeur : Chargé à bloc et prêt à coder pendant des heures
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un système de notifications push avec Expo
+Implémentation d'un rate limiting pour protéger l'API
 
-📌 **Objectif cette semaine :** Refactorer le module d'authentification pour plus de sécurité
+📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
 
 ---
 
 ## 💬 Pensée du Moment
 
-💡 *"Le code que tu écris aujourd'hui est l'infrastructure de demain."*
+*"Chaque bug résolu est une victoire. Chaque fonctionnalité livrée est une fierté."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
+🧩 **Conseil du jour :** Apprends les raccourcis de ton éditeur — chaque seconde économisée se multiplie par des milliers d'utilisations.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Winston — logging professionnel multi-transport
+> i18n — internationalisation et support RTL arabe/français
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 14:15*
-<!-- auto-update: 2026-04-26 14:15:02 -->
+*Dernière mise à jour : 26/04/2026 à 14:20*
+<!-- auto-update: 2026-04-26 14:20:02 -->
