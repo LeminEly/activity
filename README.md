@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne — ouvert aux nouvelles opportunités
+En ligne et prêt à contribuer à des projets open source
 
-😄 Humeur : Café en main, prêt à conquérir le code
+😄 Humeur : Confiant et serein face aux défis techniques
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un rate limiting pour protéger l'API
+🎨 Amélioration de l'UI avec des animations Lottie et Reanimated
 
-📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
+📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
 
 ---
 
 ## 💬 Pensée du Moment
 
-🏄 *"Surfe sur les difficultés techniques au lieu de les fuir — c'est là que tu grandis le plus."*
+*"Les grands projets commencent toujours par un simple commit."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Prends des pauses régulières — un cerveau reposé résout les problèmes 10 fois plus vite.
+🧩 **Conseil du jour :** Fais des code reviews régulières — même sur ton propre code après quelques jours.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Cloudinary — gestion intelligente des médias dans le cloud
+> React Native — développement mobile cross-platform
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 03:05*
-<!-- auto-update: 2026-04-26 03:05:12 -->
+*Dernière mise à jour : 26/04/2026 à 13:50*
+<!-- auto-update: 2026-04-26 13:50:11 -->
