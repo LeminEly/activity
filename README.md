@@ -6,15 +6,15 @@
 
 ## Statut Actuel
 
-Actuellement connecté et disponible pour collaborer
+En ligne — toujours là pour aider la communauté dev
 
-😄 Humeur : Calme et méthodique — chaque problème a une solution
+😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un système de notifications push avec Expo
+☁️ Intégration de Cloudinary pour la gestion des médias
 
 📌 **Objectif cette semaine :** Intégrer des analytics pour mieux comprendre l'usage
 
@@ -22,13 +22,13 @@ Implémentation d'un système de notifications push avec Expo
 
 ## 💬 Pensée du Moment
 
-*"Les grands projets commencent toujours par un simple commit."*
+💡 *"Le code que tu écris aujourd'hui est l'infrastructure de demain."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Backup automatique + monitoring = sommeil tranquille pour tout développeur sérieux.
+🧩 **Conseil du jour :** Une API bien conçue est une API que les développeurs adorent utiliser sans lire la doc.
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 14:45*
-<!-- auto-update: 2026-04-26 14:45:02 -->
+*Dernière mise à jour : 26/04/2026 à 14:50*
+<!-- auto-update: 2026-04-26 14:50:02 -->
