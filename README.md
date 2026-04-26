@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Présent et concentré sur l'amélioration continue
+En ligne et prêt à contribuer à des projets open source
 
-😄 Humeur : Musique dans les oreilles, code dans les doigts
+😄 Humeur : Plein d'idées nouvelles à implémenter
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🧹 Nettoyage du code mort et amélioration de la lisibilité
+Optimisation des requêtes MongoDB avec des index personnalisés
 
-📌 **Objectif cette semaine :** Améliorer l'accessibilité de l'application mobile
+📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Le code propre n'est pas écrit par chance — il est le résultat d'une discipline quotidienne."*
+*"Apprendre une nouvelle technologie chaque mois, c'est devenir 12 fois meilleur chaque année."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Backup automatique + monitoring = sommeil tranquille pour tout développeur sérieux.
+🧩 **Conseil du jour :** Nomme tes variables et fonctions comme si la personne qui lira ton code est un serial killer qui connaît ton adresse.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Cloudinary — gestion intelligente des médias dans le cloud
+> AsyncStorage — persistance des données locales sur mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 19:45*
-<!-- auto-update: 2026-04-26 19:45:02 -->
+*Dernière mise à jour : 26/04/2026 à 19:50*
+<!-- auto-update: 2026-04-26 19:50:03 -->
