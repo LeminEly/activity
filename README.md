@@ -8,33 +8,33 @@
 
 Actif — en train de construire quelque chose d'intéressant
 
-😄 Humeur : Chargé à bloc et prêt à coder pendant des heures
+😄 Humeur : Café en main, prêt à conquérir le code
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un système de notifications push avec Expo
+🎨 Amélioration de l'UI avec des animations Lottie et Reanimated
 
-📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
+📌 **Objectif cette semaine :** Intégrer des analytics pour mieux comprendre l'usage
 
 ---
 
 ## 💬 Pensée du Moment
 
-💡 *"Le code que tu écris aujourd'hui est l'infrastructure de demain."*
+✨ *"Contribuer à l'open source, c'est laisser sa trace dans l'histoire du développement."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Backup automatique + monitoring = sommeil tranquille pour tout développeur sérieux.
+🧩 **Conseil du jour :** La règle des 2 minutes : si ça prend moins de 2 minutes à faire, fais-le maintenant.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Expo SDK — écosystème complet pour le développement mobile
+> React Native — développement mobile cross-platform
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 14:05*
-<!-- auto-update: 2026-04-26 14:05:03 -->
+*Dernière mise à jour : 26/04/2026 à 14:10*
+<!-- auto-update: 2026-04-26 14:10:02 -->
