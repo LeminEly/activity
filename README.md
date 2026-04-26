@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-En ligne et prêt à contribuer à des projets open source
+Connecté — disponible pour discuter de vos projets
 
 😄 Humeur : Plein d'idées nouvelles à implémenter
 
@@ -14,27 +14,27 @@ En ligne et prêt à contribuer à des projets open source
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Optimisation des requêtes MongoDB avec des index personnalisés
+Modélisation de la base de données avec Mongoose
 
-📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
+📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Apprendre une nouvelle technologie chaque mois, c'est devenir 12 fois meilleur chaque année."*
+*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Nomme tes variables et fonctions comme si la personne qui lira ton code est un serial killer qui connaît ton adresse.
+🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
 
 ---
 
 ## Technologie Mise en Avant
 
-> AsyncStorage — persistance des données locales sur mobile
+> i18n — internationalisation et support RTL arabe/français
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 19:50*
-<!-- auto-update: 2026-04-26 19:50:03 -->
+*Dernière mise à jour : 26/04/2026 à 20:00*
+<!-- auto-update: 2026-04-26 20:00:02 -->
