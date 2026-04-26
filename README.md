@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne et prêt à contribuer à des projets open source
+Actif et motivé — cherche de nouveaux défis
 
-😄 Humeur : Frais et motivé pour une nouvelle journée de dev
+😄 Humeur : En mode réflexion profonde sur l'architecture
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🔄 Mise en place d'un pipeline CI/CD avec GitHub Actions
+Renforcement de la sécurité avec JWT et refresh tokens
 
-📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
+📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
+*"Chaque ligne de code est une opportunité de résoudre un problème réel pour quelqu'un."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Une API bien conçue est une API que les développeurs adorent utiliser sans lire la doc.
+🧩 **Conseil du jour :** Garde tes fonctions courtes et focalisées sur une seule responsabilité.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Express.js — framework web minimaliste et flexible
+> i18n — internationalisation et support RTL arabe/français
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 19:10*
-<!-- auto-update: 2026-04-26 19:10:03 -->
+*Dernière mise à jour : 26/04/2026 à 19:15*
+<!-- auto-update: 2026-04-26 19:15:03 -->
