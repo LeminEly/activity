@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Actif — en train de construire quelque chose d'intéressant
+Disponible pour du pair programming ou du mentoring
 
-😄 Humeur : Café en main, prêt à conquérir le code
+😄 Humeur : En feu — les idées fusent et le code coule
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🎨 Amélioration de l'UI avec des animations Lottie et Reanimated
+Implémentation d'un système de notifications push avec Expo
 
-📌 **Objectif cette semaine :** Intégrer des analytics pour mieux comprendre l'usage
+📌 **Objectif cette semaine :** Refactorer le module d'authentification pour plus de sécurité
 
 ---
 
 ## 💬 Pensée du Moment
 
-✨ *"Contribuer à l'open source, c'est laisser sa trace dans l'histoire du développement."*
+💡 *"Le code que tu écris aujourd'hui est l'infrastructure de demain."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** La règle des 2 minutes : si ça prend moins de 2 minutes à faire, fais-le maintenant.
+🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
 
 ---
 
 ## Technologie Mise en Avant
 
-> React Native — développement mobile cross-platform
+> Winston — logging professionnel multi-transport
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 14:10*
-<!-- auto-update: 2026-04-26 14:10:02 -->
+*Dernière mise à jour : 26/04/2026 à 14:15*
+<!-- auto-update: 2026-04-26 14:15:02 -->
