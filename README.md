@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne — ouvert aux nouvelles opportunités
+En ligne et prêt à contribuer à des projets open source
 
-😄 Humeur : Chargé à bloc et prêt à coder pendant des heures
+😄 Humeur : Frais et motivé pour une nouvelle journée de dev
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un système de notifications push avec Expo
+🔄 Mise en place d'un pipeline CI/CD avec GitHub Actions
 
-📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
+📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Les nuits de débogage intenses forment les développeurs exceptionnels."*
+*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Documente ton API dès que tu la crées — pas après coup, quand tu as tout oublié.
+🧩 **Conseil du jour :** Une API bien conçue est une API que les développeurs adorent utiliser sans lire la doc.
 
 ---
 
 ## Technologie Mise en Avant
 
-> AsyncStorage — persistance des données locales sur mobile
+> Express.js — framework web minimaliste et flexible
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 19:05*
-<!-- auto-update: 2026-04-26 19:05:03 -->
+*Dernière mise à jour : 26/04/2026 à 19:10*
+<!-- auto-update: 2026-04-26 19:10:03 -->
