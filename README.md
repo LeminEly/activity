@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-Disponible — passionné par le développement mobile et backend
+Connecté — ouvert aux code reviews et retours constructifs
 
 😄 Humeur : Calme et méthodique — chaque problème a une solution
 
@@ -14,27 +14,27 @@ Disponible — passionné par le développement mobile et backend
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🧹 Nettoyage du code mort et amélioration de la lisibilité
+Optimisation des requêtes MongoDB avec des index personnalisés
 
-📌 **Objectif cette semaine :** Documenter toutes les routes API avec Swagger
+📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
 
 ---
 
 ## 💬 Pensée du Moment
 
-✨ *"Contribuer à l'open source, c'est laisser sa trace dans l'histoire du développement."*
+*"Les grands projets commencent toujours par un simple commit."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Apprends les concepts fondamentaux avant les frameworks — ils resteront longtemps après que les frameworks disparaissent.
+🧩 **Conseil du jour :** Une API bien conçue est une API que les développeurs adorent utiliser sans lire la doc.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Expo SDK — écosystème complet pour le développement mobile
+> Cloudinary — gestion intelligente des médias dans le cloud
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 02:40*
-<!-- auto-update: 2026-04-26 02:40:12 -->
+*Dernière mise à jour : 26/04/2026 à 02:45*
+<!-- auto-update: 2026-04-26 02:45:11 -->
