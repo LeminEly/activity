@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne — toujours là pour aider la communauté dev
+Actif — toujours partant pour apprendre quelque chose de nouveau
 
-😄 Humeur : Musique dans les oreilles, code dans les doigts
+😄 Humeur : Chargé à bloc et prêt à coder pendant des heures
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Renforcement de la sécurité avec JWT et refresh tokens
+Développement d'une interface mobile avec React Native et Expo
 
-📌 **Objectif cette semaine :** Refactorer le module d'authentification pour plus de sécurité
+📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Programmer, c'est comme composer de la musique : l'harmonie vient de la pratique."*
+*"Les nuits de débogage intenses forment les développeurs exceptionnels."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise toujours des variables d'environnement pour tes secrets — jamais de tokens en dur dans le code.
+🧩 **Conseil du jour :** Lis le code des projets open source que tu admires — c'est la meilleure école gratuite.
 
 ---
 
 ## Technologie Mise en Avant
 
-> React Navigation — navigation fluide et intuitive
+> Socket.io — communication temps réel bidirectionnelle
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 22:25*
-<!-- auto-update: 2026-04-26 22:25:03 -->
+*Dernière mise à jour : 26/04/2026 à 22:30*
+<!-- auto-update: 2026-04-26 22:30:03 -->
