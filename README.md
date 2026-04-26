@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-En ligne — prêt à collaborer sur des idées innovantes
+Actif — toujours partant pour apprendre quelque chose de nouveau
 
 😄 Humeur : Plein d'idées nouvelles à implémenter
 
@@ -14,27 +14,27 @@ En ligne — prêt à collaborer sur des idées innovantes
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🧹 Nettoyage du code mort et amélioration de la lisibilité
+Configuration de l'environnement Docker pour le développement
 
-📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
+📌 **Objectif cette semaine :** Créer des composants réutilisables pour le design system
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Apprendre une nouvelle technologie chaque mois, c'est devenir 12 fois meilleur chaque année."*
+*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Apprends les raccourcis de ton éditeur — chaque seconde économisée se multiplie par des milliers d'utilisations.
+🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Express.js — framework web minimaliste et flexible
+> Cloudinary — gestion intelligente des médias dans le cloud
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 26/04/2026 à 22:45*
-<!-- auto-update: 2026-04-26 22:45:03 -->
+*Dernière mise à jour : 26/04/2026 à 22:50*
+<!-- auto-update: 2026-04-26 22:50:02 -->
