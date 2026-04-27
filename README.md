@@ -6,17 +6,17 @@
 
 ## Statut Actuel
 
-Actif et motivé — cherche de nouveaux défis
+Actif — toujours partant pour apprendre quelque chose de nouveau
 
-😄 Humeur : Fier des progrès accomplis, motivé pour la suite
+😄 Humeur : En pleine forme et ultra productif
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🧪 Écriture de tests unitaires pour améliorer la couverture du code
+🎨 Amélioration de l'UI avec des animations Lottie et Reanimated
 
-📌 **Objectif cette semaine :** Améliorer l'accessibilité de l'application mobile
+📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
 
 ---
 
@@ -28,13 +28,13 @@ Actif et motivé — cherche de nouveaux défis
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
+🧩 **Conseil du jour :** Une API bien conçue est une API que les développeurs adorent utiliser sans lire la doc.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Cloudinary — gestion intelligente des médias dans le cloud
+> AsyncStorage — persistance des données locales sur mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 17:50*
-<!-- auto-update: 2026-04-27 17:50:11 -->
+*Dernière mise à jour : 27/04/2026 à 17:55*
+<!-- auto-update: 2026-04-27 17:55:11 -->
