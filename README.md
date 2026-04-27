@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne et prêt à contribuer à des projets open source
+Actif — en train de construire quelque chose d'intéressant
 
-😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
+😄 Humeur : En feu — les idées fusent et le code coule
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Modélisation de la base de données avec Mongoose
+Implémentation d'un système de notifications push avec Expo
 
-📌 **Objectif cette semaine :** Mettre en place un système de cache Redis
+📌 **Objectif cette semaine :** Créer des composants réutilisables pour le design system
 
 ---
 
 ## 💬 Pensée du Moment
 
-✨ *"Contribuer à l'open source, c'est laisser sa trace dans l'histoire du développement."*
+💪 *"La persévérance dans le code, c'est écrire la même fonction 10 fois jusqu'à ce qu'elle soit parfaite."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
+🧩 **Conseil du jour :** Avant d'optimiser, mesure. Ne suppose jamais où est le vrai goulot d'étranglement.
 
 ---
 
 ## Technologie Mise en Avant
 
-> JWT — authentification stateless et sécurisée
+> REST API — architecture standard pour les services web
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 17:25*
-<!-- auto-update: 2026-04-27 17:25:03 -->
+*Dernière mise à jour : 27/04/2026 à 17:45*
+<!-- auto-update: 2026-04-27 17:45:03 -->
