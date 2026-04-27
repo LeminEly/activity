@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Actif et motivé — cherche de nouveaux défis
+Actif — toujours partant pour apprendre quelque chose de nouveau
 
-😄 Humeur : Calme et méthodique — chaque problème a une solution
+😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Renforcement de la sécurité avec JWT et refresh tokens
+🔗 Intégration d'une API tierce pour enrichir les fonctionnalités
 
-📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
+📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
+🌈 *"La différence entre un bon et un excellent développeur, c'est la curiosité insatiable."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
+🧩 **Conseil du jour :** Utilise toujours des variables d'environnement pour tes secrets — jamais de tokens en dur dans le code.
 
 ---
 
 ## Technologie Mise en Avant
 
-> React Navigation — navigation fluide et intuitive
+> JWT — authentification stateless et sécurisée
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 03:05*
-<!-- auto-update: 2026-04-27 03:05:02 -->
+*Dernière mise à jour : 27/04/2026 à 03:10*
+<!-- auto-update: 2026-04-27 03:10:02 -->
