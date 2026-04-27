@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Actif — en train de construire quelque chose d'intéressant
+Actif et motivé — cherche de nouveaux défis
 
-😄 Humeur : En feu — les idées fusent et le code coule
+😄 Humeur : Fier des progrès accomplis, motivé pour la suite
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un système de notifications push avec Expo
+🧪 Écriture de tests unitaires pour améliorer la couverture du code
 
-📌 **Objectif cette semaine :** Créer des composants réutilisables pour le design system
+📌 **Objectif cette semaine :** Améliorer l'accessibilité de l'application mobile
 
 ---
 
 ## 💬 Pensée du Moment
 
-💪 *"La persévérance dans le code, c'est écrire la même fonction 10 fois jusqu'à ce qu'elle soit parfaite."*
+*"Les grands projets commencent toujours par un simple commit."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Avant d'optimiser, mesure. Ne suppose jamais où est le vrai goulot d'étranglement.
+🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
 
 ---
 
 ## Technologie Mise en Avant
 
-> REST API — architecture standard pour les services web
+> Cloudinary — gestion intelligente des médias dans le cloud
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 17:45*
-<!-- auto-update: 2026-04-27 17:45:03 -->
+*Dernière mise à jour : 27/04/2026 à 17:50*
+<!-- auto-update: 2026-04-27 17:50:11 -->
