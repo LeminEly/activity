@@ -14,15 +14,15 @@ Actif — toujours partant pour apprendre quelque chose de nouveau
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-📝 Rédaction de la documentation technique du projet
+Configuration de l'environnement Docker pour le développement
 
-📌 **Objectif cette semaine :** Refactorer le module d'authentification pour plus de sécurité
+📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
 
 ---
 
 ## 💬 Pensée du Moment
 
-🌈 *"La différence entre un bon et un excellent développeur, c'est la curiosité insatiable."*
+*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
 
 ---
 
@@ -34,7 +34,7 @@ Actif — toujours partant pour apprendre quelque chose de nouveau
 
 ## Technologie Mise en Avant
 
-> Socket.io — communication temps réel bidirectionnelle
+> Axios — client HTTP promesse-based pour les API
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 15:55*
-<!-- auto-update: 2026-04-27 15:55:03 -->
+*Dernière mise à jour : 27/04/2026 à 16:00*
+<!-- auto-update: 2026-04-27 16:00:03 -->
