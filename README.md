@@ -6,9 +6,9 @@
 
 ## Statut Actuel
 
-En ligne — ouvert aux nouvelles opportunités
+Disponible — passionné par le développement mobile et backend
 
-😄 Humeur : En pleine forme et ultra productif
+😄 Humeur : Plein d'idées nouvelles à implémenter
 
 ---
 
@@ -16,25 +16,25 @@ En ligne — ouvert aux nouvelles opportunités
 
 Configuration de l'environnement Docker pour le développement
 
-📌 **Objectif cette semaine :** Intégrer des analytics pour mieux comprendre l'usage
+📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Apprendre une nouvelle technologie chaque mois, c'est devenir 12 fois meilleur chaque année."*
+*"Le code propre n'est pas écrit par chance — il est le résultat d'une discipline quotidienne."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Lis le code des projets open source que tu admires — c'est la meilleure école gratuite.
+🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
 
 ---
 
 ## Technologie Mise en Avant
 
-> React Native — développement mobile cross-platform
+> Reanimated — animations natives 60fps sur mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 20:25*
-<!-- auto-update: 2026-04-27 20:25:02 -->
+*Dernière mise à jour : 27/04/2026 à 20:30*
+<!-- auto-update: 2026-04-27 20:30:02 -->
