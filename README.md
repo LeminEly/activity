@@ -8,15 +8,15 @@
 
 Actuellement connecté et disponible pour collaborer
 
-😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
+😄 Humeur : En feu — les idées fusent et le code coule
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Configuration de l'environnement Docker pour le développement
+Développement d'une interface mobile avec React Native et Expo
 
-📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
+📌 **Objectif cette semaine :** Mettre en place un système de cache Redis
 
 ---
 
@@ -28,13 +28,13 @@ Configuration de l'environnement Docker pour le développement
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** La règle des 2 minutes : si ça prend moins de 2 minutes à faire, fais-le maintenant.
+🧩 **Conseil du jour :** Ne pousse jamais sur main directement en production sans tests automatisés.
 
 ---
 
 ## Technologie Mise en Avant
 
-> MongoDB — base de données NoSQL flexible et scalable
+> Mongoose — ODM élégant pour MongoDB et Node.js
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 02:40*
-<!-- auto-update: 2026-04-27 02:40:08 -->
+*Dernière mise à jour : 27/04/2026 à 02:45*
+<!-- auto-update: 2026-04-27 02:45:01 -->
