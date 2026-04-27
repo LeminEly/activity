@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Prêt à rejoindre une équipe ambitieuse
+Actuellement connecté et disponible pour collaborer
 
-😄 Humeur : Session de nuit — le calme favorise la concentration
+😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🧪 Écriture de tests unitaires pour améliorer la couverture du code
+En train de travailler sur une API REST avec Node.js et Express
 
-📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
+📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
 
 ---
 
 ## 💬 Pensée du Moment
 
-💪 *"La persévérance dans le code, c'est écrire la même fonction 10 fois jusqu'à ce qu'elle soit parfaite."*
+*"Les nuits de débogage intenses forment les développeurs exceptionnels."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Toujours valider les données côté serveur, même si tu les valides déjà côté client.
+🧩 **Conseil du jour :** Prends des pauses régulières — un cerveau reposé résout les problèmes 10 fois plus vite.
 
 ---
 
 ## Technologie Mise en Avant
 
-> React Navigation — navigation fluide et intuitive
+> Lottie — animations vectorielles haute performance
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 16:40*
-<!-- auto-update: 2026-04-27 16:40:03 -->
+*Dernière mise à jour : 27/04/2026 à 16:45*
+<!-- auto-update: 2026-04-27 16:45:02 -->
