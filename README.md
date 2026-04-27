@@ -8,33 +8,33 @@
 
 Connecté — disponible pour discuter de vos projets
 
-😄 Humeur : Confiant et serein face aux défis techniques
+😄 Humeur : En feu — les idées fusent et le code coule
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🔗 Intégration d'une API tierce pour enrichir les fonctionnalités
+Développement d'une interface mobile avec React Native et Expo
 
-📌 **Objectif cette semaine :** Mettre à jour toutes les dépendances obsolètes
+📌 **Objectif cette semaine :** Intégrer des analytics pour mieux comprendre l'usage
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Chaque bug résolu est une victoire. Chaque fonctionnalité livrée est une fierté."*
+💎 *"Construis des choses qui durent. Écris du code dont tu seras fier dans 5 ans."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Ne réinvente pas la roue — cherche d'abord si une librairie fiable résout déjà ton problème.
+🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
 
 ---
 
 ## Technologie Mise en Avant
 
-> JWT — authentification stateless et sécurisée
+> Express.js — framework web minimaliste et flexible
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 20:00*
-<!-- auto-update: 2026-04-27 20:00:04 -->
+*Dernière mise à jour : 27/04/2026 à 20:05*
+<!-- auto-update: 2026-04-27 20:05:02 -->
