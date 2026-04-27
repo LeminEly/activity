@@ -6,15 +6,15 @@
 
 ## Statut Actuel
 
-Disponible pour des projets freelance ou collaboratifs
+En ligne — toujours là pour aider la communauté dev
 
-😄 Humeur : Chargé à bloc et prêt à coder pendant des heures
+😄 Humeur : Plein d'idées nouvelles à implémenter
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🌍 Ajout du support multilingue français/arabe dans l'application
+🎨 Amélioration de l'UI avec des animations Lottie et Reanimated
 
 📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
 
@@ -22,19 +22,19 @@ Disponible pour des projets freelance ou collaboratifs
 
 ## 💬 Pensée du Moment
 
-🦋 *"Chaque refactoring est une métamorphose — du chaos vers l'élégance."*
+💡 *"Le code que tu écris aujourd'hui est l'infrastructure de demain."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Écris d'abord des tests, ensuite le code. Le TDD te fera gagner des heures de débogage.
+🧩 **Conseil du jour :** Apprends les raccourcis de ton éditeur — chaque seconde économisée se multiplie par des milliers d'utilisations.
 
 ---
 
 ## Technologie Mise en Avant
 
-> MongoDB — base de données NoSQL flexible et scalable
+> i18n — internationalisation et support RTL arabe/français
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 21:50*
-<!-- auto-update: 2026-04-27 21:50:03 -->
+*Dernière mise à jour : 27/04/2026 à 21:55*
+<!-- auto-update: 2026-04-27 21:55:03 -->
