@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Actif — toujours partant pour apprendre quelque chose de nouveau
+Disponible — passionné par le développement mobile et backend
 
-😄 Humeur : En feu — les idées fusent et le code coule
+😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Configuration de l'environnement Docker pour le développement
+Modélisation de la base de données avec Mongoose
 
-📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
+📌 **Objectif cette semaine :** Mettre à jour toutes les dépendances obsolètes
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
+🔮 *"Le futur appartient aux développeurs qui continuent d'apprendre même quand personne ne les regarde."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Ne réinvente pas la roue — cherche d'abord si une librairie fiable résout déjà ton problème.
+🧩 **Conseil du jour :** Fais des code reviews régulières — même sur ton propre code après quelques jours.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Axios — client HTTP promesse-based pour les API
+> MongoDB — base de données NoSQL flexible et scalable
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 16:00*
-<!-- auto-update: 2026-04-27 16:00:03 -->
+*Dernière mise à jour : 27/04/2026 à 16:05*
+<!-- auto-update: 2026-04-27 16:05:11 -->
