@@ -8,13 +8,13 @@
 
 Disponible — passionné par le développement mobile et backend
 
-😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
+😄 Humeur : Café en main, prêt à conquérir le code
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Modélisation de la base de données avec Mongoose
+🔄 Mise en place d'un pipeline CI/CD avec GitHub Actions
 
 📌 **Objectif cette semaine :** Mettre à jour toutes les dépendances obsolètes
 
@@ -22,19 +22,19 @@ Modélisation de la base de données avec Mongoose
 
 ## 💬 Pensée du Moment
 
-🔮 *"Le futur appartient aux développeurs qui continuent d'apprendre même quand personne ne les regarde."*
+✨ *"Contribuer à l'open source, c'est laisser sa trace dans l'histoire du développement."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Fais des code reviews régulières — même sur ton propre code après quelques jours.
+🧩 **Conseil du jour :** Apprends les concepts fondamentaux avant les frameworks — ils resteront longtemps après que les frameworks disparaissent.
 
 ---
 
 ## Technologie Mise en Avant
 
-> MongoDB — base de données NoSQL flexible et scalable
+> Node-cron — planification de tâches automatisées
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 16:05*
-<!-- auto-update: 2026-04-27 16:05:11 -->
+*Dernière mise à jour : 27/04/2026 à 16:10*
+<!-- auto-update: 2026-04-27 16:10:11 -->
