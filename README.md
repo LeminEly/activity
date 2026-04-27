@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Connecté — ouvert aux code reviews et retours constructifs
+En ligne — prêt à collaborer sur des idées innovantes
 
-😄 Humeur : En feu — les idées fusent et le code coule
+😄 Humeur : Calme et méthodique — chaque problème a une solution
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Renforcement de la sécurité avec JWT et refresh tokens
+Implémentation d'un rate limiting pour protéger l'API
 
-📌 **Objectif cette semaine :** Implémenter une nouvelle fonctionnalité de recherche avancée
+📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
+🌊 *"Ne crains pas la complexité — décompose-la en petits problèmes simples."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Ne réinvente pas la roue — cherche d'abord si une librairie fiable résout déjà ton problème.
+🧩 **Conseil du jour :** Fais des code reviews régulières — même sur ton propre code après quelques jours.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Cloudinary — gestion intelligente des médias dans le cloud
+> Lottie — animations vectorielles haute performance
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 20:45*
-<!-- auto-update: 2026-04-27 20:45:02 -->
+*Dernière mise à jour : 27/04/2026 à 20:50*
+<!-- auto-update: 2026-04-27 20:50:02 -->
