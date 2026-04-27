@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne et prêt à contribuer à des projets open source
+Actuellement connecté et disponible pour collaborer
 
-😄 Humeur : Frais et motivé pour une nouvelle journée de dev
+😄 Humeur : Calme et méthodique — chaque problème a une solution
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un système de notifications push avec Expo
+Implémentation d'un rate limiting pour protéger l'API
 
-📌 **Objectif cette semaine :** Refactorer le module d'authentification pour plus de sécurité
+📌 **Objectif cette semaine :** Mettre en place des alertes de monitoring en production
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Programmer, c'est comme composer de la musique : l'harmonie vient de la pratique."*
+💪 *"La persévérance dans le code, c'est écrire la même fonction 10 fois jusqu'à ce qu'elle soit parfaite."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Apprends à utiliser git bisect — ça peut te faire gagner des heures pour localiser un bug.
+🧩 **Conseil du jour :** Utilise toujours des variables d'environnement pour tes secrets — jamais de tokens en dur dans le code.
 
 ---
 
 ## Technologie Mise en Avant
 
-> i18n — internationalisation et support RTL arabe/français
+> Lottie — animations vectorielles haute performance
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 19:35*
-<!-- auto-update: 2026-04-27 19:35:03 -->
+*Dernière mise à jour : 27/04/2026 à 19:40*
+<!-- auto-update: 2026-04-27 19:40:03 -->
