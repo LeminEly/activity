@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Actuellement connecté et disponible pour collaborer
+En ligne — toujours là pour aider la communauté dev
 
-😄 Humeur : En feu — les idées fusent et le code coule
+😄 Humeur : Fier des progrès accomplis, motivé pour la suite
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Modélisation de la base de données avec Mongoose
+🎨 Amélioration de l'UI avec des animations Lottie et Reanimated
 
-📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
+📌 **Objectif cette semaine :** Documenter toutes les routes API avec Swagger
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Chaque ligne de code est une opportunité de résoudre un problème réel pour quelqu'un."*
+*"Le code propre n'est pas écrit par chance — il est le résultat d'une discipline quotidienne."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
+🧩 **Conseil du jour :** Toujours valider les données côté serveur, même si tu les valides déjà côté client.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Expo Notifications — notifications push natives
+> React Native — développement mobile cross-platform
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 18:50*
-<!-- auto-update: 2026-04-27 18:50:02 -->
+*Dernière mise à jour : 27/04/2026 à 18:55*
+<!-- auto-update: 2026-04-27 18:55:02 -->
