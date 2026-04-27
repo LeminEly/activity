@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Présent et concentré sur l'amélioration continue
+En ligne — prêt à collaborer sur des idées innovantes
 
-😄 Humeur : En mode réflexion profonde sur l'architecture
+😄 Humeur : Frais et motivé pour une nouvelle journée de dev
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🔧 Refactoring du code pour améliorer les performances
+Implémentation d'un système de notifications push avec Expo
 
-📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
+📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
 
 ---
 
 ## 💬 Pensée du Moment
 
-🌈 *"La différence entre un bon et un excellent développeur, c'est la curiosité insatiable."*
+*"Les nuits de débogage intenses forment les développeurs exceptionnels."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
+🧩 **Conseil du jour :** Fais des code reviews régulières — même sur ton propre code après quelques jours.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Express Rate Limit — protection contre les attaques DDoS
+> JWT — authentification stateless et sécurisée
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 02:05*
-<!-- auto-update: 2026-04-27 02:05:02 -->
+*Dernière mise à jour : 27/04/2026 à 02:10*
+<!-- auto-update: 2026-04-27 02:10:03 -->
