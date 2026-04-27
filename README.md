@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne et prêt à contribuer à des projets open source
+Prêt à rejoindre une équipe ambitieuse
 
-😄 Humeur : Musique dans les oreilles, code dans les doigts
+😄 Humeur : Calme et méthodique — chaque problème a une solution
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-📦 Mise à jour des dépendances npm vers les dernières versions stables
+Configuration de l'environnement Docker pour le développement
 
-📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
+📌 **Objectif cette semaine :** Documenter toutes les routes API avec Swagger
 
 ---
 
 ## 💬 Pensée du Moment
 
-🏄 *"Surfe sur les difficultés techniques au lieu de les fuir — c'est là que tu grandis le plus."*
+🌈 *"La différence entre un bon et un excellent développeur, c'est la curiosité insatiable."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Écris d'abord des tests, ensuite le code. Le TDD te fera gagner des heures de débogage.
+🧩 **Conseil du jour :** Log intelligemment — trop de logs = pas de logs utiles. Trop peu = debugging impossible en production.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Socket.io — communication temps réel bidirectionnelle
+> JWT — authentification stateless et sécurisée
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 19:45*
-<!-- auto-update: 2026-04-27 19:45:02 -->
+*Dernière mise à jour : 27/04/2026 à 19:50*
+<!-- auto-update: 2026-04-27 19:50:02 -->
