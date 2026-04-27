@@ -6,15 +6,15 @@
 
 ## Statut Actuel
 
-En ligne — prêt à collaborer sur des idées innovantes
+Disponible pour des projets freelance ou collaboratifs
 
-😄 Humeur : Frais et motivé pour une nouvelle journée de dev
+😄 Humeur : En feu — les idées fusent et le code coule
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un système de notifications push avec Expo
+Implémentation d'un rate limiting pour protéger l'API
 
 📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
 
@@ -22,19 +22,19 @@ Implémentation d'un système de notifications push avec Expo
 
 ## 💬 Pensée du Moment
 
-*"Les nuits de débogage intenses forment les développeurs exceptionnels."*
+*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Fais des code reviews régulières — même sur ton propre code après quelques jours.
+🧩 **Conseil du jour :** Apprends à utiliser git bisect — ça peut te faire gagner des heures pour localiser un bug.
 
 ---
 
 ## Technologie Mise en Avant
 
-> JWT — authentification stateless et sécurisée
+> Mongoose — ODM élégant pour MongoDB et Node.js
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 02:10*
-<!-- auto-update: 2026-04-27 02:10:03 -->
+*Dernière mise à jour : 27/04/2026 à 02:15*
+<!-- auto-update: 2026-04-27 02:15:02 -->
