@@ -6,17 +6,17 @@
 
 ## Statut Actuel
 
-Disponible pour des projets freelance ou collaboratifs
+Disponible — passionné par le développement mobile et backend
 
-😄 Humeur : Lancé comme une fusée vers les objectifs du sprint
+😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🎨 Amélioration de l'UI avec des animations Lottie et Reanimated
+📦 Mise à jour des dépendances npm vers les dernières versions stables
 
-📌 **Objectif cette semaine :** Mettre en place un système de cache Redis
+📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
 
 ---
 
@@ -28,13 +28,13 @@ Disponible pour des projets freelance ou collaboratifs
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
+🧩 **Conseil du jour :** Fais des code reviews régulières — même sur ton propre code après quelques jours.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Node.js — runtime JavaScript côté serveur ultra-rapide
+> AsyncStorage — persistance des données locales sur mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 27/04/2026 à 21:10*
-<!-- auto-update: 2026-04-27 21:10:03 -->
+*Dernière mise à jour : 27/04/2026 à 21:15*
+<!-- auto-update: 2026-04-27 21:15:02 -->
