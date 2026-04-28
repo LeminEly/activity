@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne — toujours là pour aider la communauté dev
+En ligne — prêt à collaborer sur des idées innovantes
 
-😄 Humeur : Lancé comme une fusée vers les objectifs du sprint
+😄 Humeur : Café en main, prêt à conquérir le code
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Travail sur l'expérience utilisateur et l'accessibilité
+Optimisation des requêtes MongoDB avec des index personnalisés
 
-📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
+📌 **Objectif cette semaine :** Mettre à jour toutes les dépendances obsolètes
 
 ---
 
 ## 💬 Pensée du Moment
 
-🔮 *"Le futur appartient aux développeurs qui continuent d'apprendre même quand personne ne les regarde."*
+💪 *"La persévérance dans le code, c'est écrire la même fonction 10 fois jusqu'à ce qu'elle soit parfaite."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
+🧩 **Conseil du jour :** Utilise toujours des variables d'environnement pour tes secrets — jamais de tokens en dur dans le code.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Axios — client HTTP promesse-based pour les API
+> Expo SDK — écosystème complet pour le développement mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 17:15*
-<!-- auto-update: 2026-04-28 17:15:03 -->
+*Dernière mise à jour : 28/04/2026 à 17:20*
+<!-- auto-update: 2026-04-28 17:20:02 -->
