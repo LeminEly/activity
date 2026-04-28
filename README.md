@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Présent et concentré sur l'amélioration continue
+Prêt à rejoindre une équipe ambitieuse
 
-😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
+😄 Humeur : En feu — les idées fusent et le code coule
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un système de notifications push avec Expo
+Configuration de l'environnement Docker pour le développement
 
-📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
+📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
+🌈 *"La différence entre un bon et un excellent développeur, c'est la curiosité insatiable."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Un README clair et complet est souvent plus précieux que le code lui-même pour un nouveau contributeur.
+🧩 **Conseil du jour :** Ne pousse jamais sur main directement en production sans tests automatisés.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Express.js — framework web minimaliste et flexible
+> Winston — logging professionnel multi-transport
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 00:30*
-<!-- auto-update: 2026-04-28 00:30:03 -->
+*Dernière mise à jour : 28/04/2026 à 01:55*
+<!-- auto-update: 2026-04-28 01:55:02 -->
