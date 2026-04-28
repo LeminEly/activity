@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Actif — toujours partant pour apprendre quelque chose de nouveau
+Prêt à rejoindre une équipe ambitieuse
 
-😄 Humeur : Musique dans les oreilles, code dans les doigts
+😄 Humeur : En pleine forme et ultra productif
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Développement d'une interface mobile avec React Native et Expo
+En train de travailler sur une API REST avec Node.js et Express
 
-📌 **Objectif cette semaine :** Créer des composants réutilisables pour le design system
+📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
 
 ---
 
 ## 💬 Pensée du Moment
 
-✨ *"Contribuer à l'open source, c'est laisser sa trace dans l'histoire du développement."*
+*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Un README clair et complet est souvent plus précieux que le code lui-même pour un nouveau contributeur.
+🧩 **Conseil du jour :** Lis le code des projets open source que tu admires — c'est la meilleure école gratuite.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Lottie — animations vectorielles haute performance
+> Socket.io — communication temps réel bidirectionnelle
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 14:10*
-<!-- auto-update: 2026-04-28 14:10:02 -->
+*Dernière mise à jour : 28/04/2026 à 14:15*
+<!-- auto-update: 2026-04-28 14:15:02 -->
