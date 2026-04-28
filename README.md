@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Actif — en train de construire quelque chose d'intéressant
+Disponible pour des projets freelance ou collaboratifs
 
-😄 Humeur : Chargé à bloc et prêt à coder pendant des heures
+😄 Humeur : Concentré et dans le flow total
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Renforcement de la sécurité avec JWT et refresh tokens
+☁️ Intégration de Cloudinary pour la gestion des médias
 
-📌 **Objectif cette semaine :** Mettre en place des alertes de monitoring en production
+📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
+*"Apprendre une nouvelle technologie chaque mois, c'est devenir 12 fois meilleur chaque année."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
+🧩 **Conseil du jour :** Toujours valider les données côté serveur, même si tu les valides déjà côté client.
 
 ---
 
 ## Technologie Mise en Avant
 
-> i18n — internationalisation et support RTL arabe/français
+> Axios — client HTTP promesse-based pour les API
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 00:00*
-<!-- auto-update: 2026-04-28 00:00:02 -->
+*Dernière mise à jour : 28/04/2026 à 00:05*
+<!-- auto-update: 2026-04-28 00:05:03 -->
