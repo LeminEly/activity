@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Actuellement connecté et disponible pour collaborer
+En ligne — ouvert aux nouvelles opportunités
 
-😄 Humeur : Fier des progrès accomplis, motivé pour la suite
+😄 Humeur : En feu — les idées fusent et le code coule
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un rate limiting pour protéger l'API
+Implémentation d'un système de notifications push avec Expo
 
-📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
+📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
 
 ---
 
 ## 💬 Pensée du Moment
 
-🌈 *"La différence entre un bon et un excellent développeur, c'est la curiosité insatiable."*
+💡 *"Le code que tu écris aujourd'hui est l'infrastructure de demain."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Apprends les concepts fondamentaux avant les frameworks — ils resteront longtemps après que les frameworks disparaissent.
+🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
 
 ---
 
 ## Technologie Mise en Avant
 
-> MongoDB — base de données NoSQL flexible et scalable
+> Lottie — animations vectorielles haute performance
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 18:30*
-<!-- auto-update: 2026-04-28 18:30:02 -->
+*Dernière mise à jour : 28/04/2026 à 18:35*
+<!-- auto-update: 2026-04-28 18:35:02 -->
