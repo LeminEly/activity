@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne — toujours là pour aider la communauté dev
+Connecté — ouvert aux code reviews et retours constructifs
 
-😄 Humeur : Confiant et serein face aux défis techniques
+😄 Humeur : Plein d'idées nouvelles à implémenter
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-📦 Mise à jour des dépendances npm vers les dernières versions stables
+🧹 Nettoyage du code mort et amélioration de la lisibilité
 
-📌 **Objectif cette semaine :** Implémenter une nouvelle fonctionnalité de recherche avancée
+📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
 
 ---
 
 ## 💬 Pensée du Moment
 
-💎 *"Construis des choses qui durent. Écris du code dont tu seras fier dans 5 ans."*
+✨ *"Contribuer à l'open source, c'est laisser sa trace dans l'histoire du développement."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Écris d'abord des tests, ensuite le code. Le TDD te fera gagner des heures de débogage.
+🧩 **Conseil du jour :** Ne réinvente pas la roue — cherche d'abord si une librairie fiable résout déjà ton problème.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Expo SDK — écosystème complet pour le développement mobile
+> i18n — internationalisation et support RTL arabe/français
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 17:05*
-<!-- auto-update: 2026-04-28 17:05:02 -->
+*Dernière mise à jour : 28/04/2026 à 17:10*
+<!-- auto-update: 2026-04-28 17:10:02 -->
