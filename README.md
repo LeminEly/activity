@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Présent et concentré sur l'amélioration continue
+En ligne — ouvert aux nouvelles opportunités
 
-😄 Humeur : Lancé comme une fusée vers les objectifs du sprint
+😄 Humeur : En mode réflexion profonde sur l'architecture
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Configuration de l'environnement Docker pour le développement
+📚 Lecture de la documentation officielle de Socket.io
 
-📌 **Objectif cette semaine :** Mettre en place des alertes de monitoring en production
+📌 **Objectif cette semaine :** Intégrer des analytics pour mieux comprendre l'usage
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Chaque ligne de code est une opportunité de résoudre un problème réel pour quelqu'un."*
+*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Garde tes fonctions courtes et focalisées sur une seule responsabilité.
+🧩 **Conseil du jour :** Apprends les concepts fondamentaux avant les frameworks — ils resteront longtemps après que les frameworks disparaissent.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Lottie — animations vectorielles haute performance
+> Reanimated — animations natives 60fps sur mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 14:00*
-<!-- auto-update: 2026-04-28 14:00:03 -->
+*Dernière mise à jour : 28/04/2026 à 14:05*
+<!-- auto-update: 2026-04-28 14:05:02 -->
