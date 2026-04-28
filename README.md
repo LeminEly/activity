@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Actuellement connecté et disponible pour collaborer
+Connecté — ouvert aux code reviews et retours constructifs
 
-😄 Humeur : En mode réflexion profonde sur l'architecture
+😄 Humeur : Lancé comme une fusée vers les objectifs du sprint
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un système de notifications push avec Expo
+💬 Développement d'un système de chat temps réel avec Socket.io
 
-📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
+📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
 
 ---
 
 ## 💬 Pensée du Moment
 
-🎪 *"L'expérience, c'est le nom qu'on donne à nos erreurs. Alors, expérimente beaucoup."*
+🏄 *"Surfe sur les difficultés techniques au lieu de les fuir — c'est là que tu grandis le plus."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** La sécurité n'est pas une fonctionnalité qu'on ajoute à la fin — elle se conçoit dès le début.
+🧩 **Conseil du jour :** Écris d'abord des tests, ensuite le code. Le TDD te fera gagner des heures de débogage.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Node.js — runtime JavaScript côté serveur ultra-rapide
+> Expo Notifications — notifications push natives
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 16:10*
-<!-- auto-update: 2026-04-28 16:10:02 -->
+*Dernière mise à jour : 28/04/2026 à 16:15*
+<!-- auto-update: 2026-04-28 16:15:02 -->
