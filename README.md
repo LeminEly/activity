@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Actif et motivé — cherche de nouveaux défis
+En ligne — prêt à collaborer sur des idées innovantes
 
-😄 Humeur : Lancé comme une fusée vers les objectifs du sprint
+😄 Humeur : Session de nuit — le calme favorise la concentration
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un rate limiting pour protéger l'API
+🎨 Amélioration de l'UI avec des animations Lottie et Reanimated
 
-📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
+📌 **Objectif cette semaine :** Intégrer des analytics pour mieux comprendre l'usage
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Chaque bug résolu est une victoire. Chaque fonctionnalité livrée est une fierté."*
+🌺 *"Un code bien documenté est un cadeau pour ton futur toi."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Prends des pauses régulières — un cerveau reposé résout les problèmes 10 fois plus vite.
+🧩 **Conseil du jour :** Lis le code des projets open source que tu admires — c'est la meilleure école gratuite.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Express.js — framework web minimaliste et flexible
+> AsyncStorage — persistance des données locales sur mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 18:05*
-<!-- auto-update: 2026-04-28 18:05:08 -->
+*Dernière mise à jour : 28/04/2026 à 18:10*
+<!-- auto-update: 2026-04-28 18:10:02 -->
