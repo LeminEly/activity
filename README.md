@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-Disponible pour des projets freelance ou collaboratifs
+En ligne — prêt à collaborer sur des idées innovantes
 
 😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
 
@@ -14,15 +14,15 @@ Disponible pour des projets freelance ou collaboratifs
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🔄 Mise en place d'un pipeline CI/CD avec GitHub Actions
+Implémentation d'un système de notifications push avec Expo
 
-📌 **Objectif cette semaine :** Mettre en place des alertes de monitoring en production
+📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Chaque ligne de code est une opportunité de résoudre un problème réel pour quelqu'un."*
+*"Les grands projets commencent toujours par un simple commit."*
 
 ---
 
@@ -34,7 +34,7 @@ Disponible pour des projets freelance ou collaboratifs
 
 ## Technologie Mise en Avant
 
-> Mongoose — ODM élégant pour MongoDB et Node.js
+> Lottie — animations vectorielles haute performance
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 13:30*
-<!-- auto-update: 2026-04-28 13:30:03 -->
+*Dernière mise à jour : 28/04/2026 à 13:35*
+<!-- auto-update: 2026-04-28 13:35:02 -->
