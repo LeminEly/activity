@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Présent et concentré sur l'amélioration continue
+Disponible pour des projets freelance ou collaboratifs
 
-😄 Humeur : Concentré et dans le flow total
+😄 Humeur : Café en main, prêt à conquérir le code
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🔄 Mise en place d'un pipeline CI/CD avec GitHub Actions
+📝 Rédaction de la documentation technique du projet
 
-📌 **Objectif cette semaine :** Mettre en place un système de cache Redis
+📌 **Objectif cette semaine :** Documenter toutes les routes API avec Swagger
 
 ---
 
 ## 💬 Pensée du Moment
 
-🦋 *"Chaque refactoring est une métamorphose — du chaos vers l'élégance."*
+*"Le code propre n'est pas écrit par chance — il est le résultat d'une discipline quotidienne."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Fais des commits petits et fréquents plutôt qu'un seul gros commit — c'est plus facile à revoir et à réverter.
+🧩 **Conseil du jour :** Fais des code reviews régulières — même sur ton propre code après quelques jours.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Express Rate Limit — protection contre les attaques DDoS
+> Expo Notifications — notifications push natives
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 13:50*
-<!-- auto-update: 2026-04-28 13:50:03 -->
+*Dernière mise à jour : 28/04/2026 à 13:55*
+<!-- auto-update: 2026-04-28 13:55:03 -->
