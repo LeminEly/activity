@@ -6,23 +6,23 @@
 
 ## Statut Actuel
 
-Connecté — ouvert aux code reviews et retours constructifs
+Prêt à rejoindre une équipe ambitieuse
 
-😄 Humeur : En mode réflexion profonde sur l'architecture
+😄 Humeur : Musique dans les oreilles, code dans les doigts
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🔧 Refactoring du code pour améliorer les performances
+Implémentation d'un système de notifications push avec Expo
 
-📌 **Objectif cette semaine :** Mettre à jour toutes les dépendances obsolètes
+📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
 
 ---
 
 ## 💬 Pensée du Moment
 
-🌈 *"La différence entre un bon et un excellent développeur, c'est la curiosité insatiable."*
+🌟 *"Un bon développeur n'est pas celui qui connaît tout, mais celui qui sait comment trouver ce qu'il ne sait pas."*
 
 ---
 
@@ -34,7 +34,7 @@ Connecté — ouvert aux code reviews et retours constructifs
 
 ## Technologie Mise en Avant
 
-> Cloudinary — gestion intelligente des médias dans le cloud
+> Express.js — framework web minimaliste et flexible
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 17:25*
-<!-- auto-update: 2026-04-28 17:25:03 -->
+*Dernière mise à jour : 28/04/2026 à 17:30*
+<!-- auto-update: 2026-04-28 17:30:03 -->
