@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Prêt à rejoindre une équipe ambitieuse
+Disponible pour des projets freelance ou collaboratifs
 
-😄 Humeur : En feu — les idées fusent et le code coule
+😄 Humeur : Café en main, prêt à conquérir le code
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Configuration de l'environnement Docker pour le développement
+Optimisation des requêtes MongoDB avec des index personnalisés
 
-📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
+📌 **Objectif cette semaine :** Implémenter une nouvelle fonctionnalité de recherche avancée
 
 ---
 
 ## 💬 Pensée du Moment
 
-🌈 *"La différence entre un bon et un excellent développeur, c'est la curiosité insatiable."*
+🎪 *"L'expérience, c'est le nom qu'on donne à nos erreurs. Alors, expérimente beaucoup."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Ne pousse jamais sur main directement en production sans tests automatisés.
+🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Winston — logging professionnel multi-transport
+> i18n — internationalisation et support RTL arabe/français
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 01:55*
-<!-- auto-update: 2026-04-28 01:55:02 -->
+*Dernière mise à jour : 28/04/2026 à 02:00*
+<!-- auto-update: 2026-04-28 02:00:04 -->
