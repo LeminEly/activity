@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne — toujours là pour aider la communauté dev
+Disponible — passionné par le développement mobile et backend
 
-😄 Humeur : Confiant et serein face aux défis techniques
+😄 Humeur : Musique dans les oreilles, code dans les doigts
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🔄 Mise en place d'un pipeline CI/CD avec GitHub Actions
+🎨 Amélioration de l'UI avec des animations Lottie et Reanimated
 
-📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
+📌 **Objectif cette semaine :** Intégrer des analytics pour mieux comprendre l'usage
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Les nuits de débogage intenses forment les développeurs exceptionnels."*
+💎 *"Construis des choses qui durent. Écris du code dont tu seras fier dans 5 ans."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Documente ton API dès que tu la crées — pas après coup, quand tu as tout oublié.
+🧩 **Conseil du jour :** Apprends à utiliser git bisect — ça peut te faire gagner des heures pour localiser un bug.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Express.js — framework web minimaliste et flexible
+> Mongoose — ODM élégant pour MongoDB et Node.js
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 17:40*
-<!-- auto-update: 2026-04-28 17:40:03 -->
+*Dernière mise à jour : 28/04/2026 à 17:45*
+<!-- auto-update: 2026-04-28 17:45:03 -->
