@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Disponible pour du pair programming ou du mentoring
+Connecté — ouvert aux code reviews et retours constructifs
 
-😄 Humeur : Concentré et dans le flow total
+😄 Humeur : Confiant et serein face aux défis techniques
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🔄 Mise en place d'un pipeline CI/CD avec GitHub Actions
+Implémentation d'un rate limiting pour protéger l'API
 
-📌 **Objectif cette semaine :** Améliorer l'accessibilité de l'application mobile
+📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
 
 ---
 
 ## 💬 Pensée du Moment
 
-💎 *"Construis des choses qui durent. Écris du code dont tu seras fier dans 5 ans."*
+*"Chaque bug résolu est une victoire. Chaque fonctionnalité livrée est une fierté."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Apprends à utiliser git bisect — ça peut te faire gagner des heures pour localiser un bug.
+🧩 **Conseil du jour :** Nomme tes variables et fonctions comme si la personne qui lira ton code est un serial killer qui connaît ton adresse.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Socket.io — communication temps réel bidirectionnelle
+> MongoDB — base de données NoSQL flexible et scalable
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 14:40*
-<!-- auto-update: 2026-04-28 14:40:03 -->
+*Dernière mise à jour : 28/04/2026 à 14:45*
+<!-- auto-update: 2026-04-28 14:45:03 -->
