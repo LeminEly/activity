@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne — prêt à collaborer sur des idées innovantes
+En ligne et prêt à contribuer à des projets open source
 
-😄 Humeur : Session de nuit — le calme favorise la concentration
+😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🎨 Amélioration de l'UI avec des animations Lottie et Reanimated
+En train de travailler sur une API REST avec Node.js et Express
 
-📌 **Objectif cette semaine :** Intégrer des analytics pour mieux comprendre l'usage
+📌 **Objectif cette semaine :** Mettre en place des alertes de monitoring en production
 
 ---
 
 ## 💬 Pensée du Moment
 
-🌺 *"Un code bien documenté est un cadeau pour ton futur toi."*
+🎪 *"L'expérience, c'est le nom qu'on donne à nos erreurs. Alors, expérimente beaucoup."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Lis le code des projets open source que tu admires — c'est la meilleure école gratuite.
+🧩 **Conseil du jour :** Fais des commits petits et fréquents plutôt qu'un seul gros commit — c'est plus facile à revoir et à réverter.
 
 ---
 
 ## Technologie Mise en Avant
 
-> AsyncStorage — persistance des données locales sur mobile
+> Node.js — runtime JavaScript côté serveur ultra-rapide
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 18:10*
-<!-- auto-update: 2026-04-28 18:10:02 -->
+*Dernière mise à jour : 28/04/2026 à 18:15*
+<!-- auto-update: 2026-04-28 18:15:02 -->
