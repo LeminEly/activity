@@ -6,17 +6,17 @@
 
 ## Statut Actuel
 
-En ligne — ouvert aux nouvelles opportunités
+En ligne — toujours là pour aider la communauté dev
 
-😄 Humeur : Concentré et dans le flow total
+😄 Humeur : Confiant et serein face aux défis techniques
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🔗 Intégration d'une API tierce pour enrichir les fonctionnalités
+📦 Mise à jour des dépendances npm vers les dernières versions stables
 
-📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
+📌 **Objectif cette semaine :** Implémenter une nouvelle fonctionnalité de recherche avancée
 
 ---
 
@@ -28,13 +28,13 @@ En ligne — ouvert aux nouvelles opportunités
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Apprends les raccourcis de ton éditeur — chaque seconde économisée se multiplie par des milliers d'utilisations.
+🧩 **Conseil du jour :** Écris d'abord des tests, ensuite le code. Le TDD te fera gagner des heures de débogage.
 
 ---
 
 ## Technologie Mise en Avant
 
-> MongoDB — base de données NoSQL flexible et scalable
+> Expo SDK — écosystème complet pour le développement mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 17:00*
-<!-- auto-update: 2026-04-28 17:00:03 -->
+*Dernière mise à jour : 28/04/2026 à 17:05*
+<!-- auto-update: 2026-04-28 17:05:02 -->
