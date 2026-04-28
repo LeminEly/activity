@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-Disponible pour du pair programming ou du mentoring
+Disponible — passionné par le développement mobile et backend
 
 😄 Humeur : En pleine forme et ultra productif
 
@@ -14,27 +14,27 @@ Disponible pour du pair programming ou du mentoring
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🔧 Refactoring du code pour améliorer les performances
+Exploration des nouvelles fonctionnalités de MongoDB 7
 
-📌 **Objectif cette semaine :** Mettre à jour toutes les dépendances obsolètes
+📌 **Objectif cette semaine :** Refactorer le module d'authentification pour plus de sécurité
 
 ---
 
 ## 💬 Pensée du Moment
 
-🌈 *"La différence entre un bon et un excellent développeur, c'est la curiosité insatiable."*
+*"Chaque ligne de code est une opportunité de résoudre un problème réel pour quelqu'un."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Ne réinvente pas la roue — cherche d'abord si une librairie fiable résout déjà ton problème.
+🧩 **Conseil du jour :** Backup automatique + monitoring = sommeil tranquille pour tout développeur sérieux.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Reanimated — animations natives 60fps sur mobile
+> Lottie — animations vectorielles haute performance
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 13:10*
-<!-- auto-update: 2026-04-28 13:10:02 -->
+*Dernière mise à jour : 28/04/2026 à 13:15*
+<!-- auto-update: 2026-04-28 13:15:02 -->
