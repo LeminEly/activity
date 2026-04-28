@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Prêt à rejoindre une équipe ambitieuse
+Actif et motivé — cherche de nouveaux défis
 
-😄 Humeur : Musique dans les oreilles, code dans les doigts
+😄 Humeur : Chargé à bloc et prêt à coder pendant des heures
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un système de notifications push avec Expo
+🔄 Mise en place d'un pipeline CI/CD avec GitHub Actions
 
-📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
+📌 **Objectif cette semaine :** Documenter toutes les routes API avec Swagger
 
 ---
 
 ## 💬 Pensée du Moment
 
-🌟 *"Un bon développeur n'est pas celui qui connaît tout, mais celui qui sait comment trouver ce qu'il ne sait pas."*
+🦋 *"Chaque refactoring est une métamorphose — du chaos vers l'élégance."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise toujours des variables d'environnement pour tes secrets — jamais de tokens en dur dans le code.
+🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Express.js — framework web minimaliste et flexible
+> JWT — authentification stateless et sécurisée
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 17:30*
-<!-- auto-update: 2026-04-28 17:30:03 -->
+*Dernière mise à jour : 28/04/2026 à 17:35*
+<!-- auto-update: 2026-04-28 17:35:02 -->
