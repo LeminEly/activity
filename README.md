@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-En ligne et prêt à contribuer à des projets open source
+Connecté — ouvert aux code reviews et retours constructifs
 
 😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
 
@@ -14,27 +14,27 @@ En ligne et prêt à contribuer à des projets open source
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-En train de travailler sur une API REST avec Node.js et Express
+🎨 Amélioration de l'UI avec des animations Lottie et Reanimated
 
-📌 **Objectif cette semaine :** Mettre en place des alertes de monitoring en production
+📌 **Objectif cette semaine :** Améliorer l'accessibilité de l'application mobile
 
 ---
 
 ## 💬 Pensée du Moment
 
-🎪 *"L'expérience, c'est le nom qu'on donne à nos erreurs. Alors, expérimente beaucoup."*
+💡 *"Le code que tu écris aujourd'hui est l'infrastructure de demain."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Fais des commits petits et fréquents plutôt qu'un seul gros commit — c'est plus facile à revoir et à réverter.
+🧩 **Conseil du jour :** La règle des 2 minutes : si ça prend moins de 2 minutes à faire, fais-le maintenant.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Node.js — runtime JavaScript côté serveur ultra-rapide
+> React Navigation — navigation fluide et intuitive
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 18:15*
-<!-- auto-update: 2026-04-28 18:15:02 -->
+*Dernière mise à jour : 28/04/2026 à 18:20*
+<!-- auto-update: 2026-04-28 18:20:02 -->
