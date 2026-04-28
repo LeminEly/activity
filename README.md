@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-Connecté — ouvert aux code reviews et retours constructifs
+Actif — toujours partant pour apprendre quelque chose de nouveau
 
 😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
 
@@ -14,27 +14,27 @@ Connecté — ouvert aux code reviews et retours constructifs
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🎨 Amélioration de l'UI avec des animations Lottie et Reanimated
+En train de travailler sur une API REST avec Node.js et Express
 
-📌 **Objectif cette semaine :** Améliorer l'accessibilité de l'application mobile
+📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
 
 ---
 
 ## 💬 Pensée du Moment
 
-💡 *"Le code que tu écris aujourd'hui est l'infrastructure de demain."*
+*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** La règle des 2 minutes : si ça prend moins de 2 minutes à faire, fais-le maintenant.
+🧩 **Conseil du jour :** Ne pousse jamais sur main directement en production sans tests automatisés.
 
 ---
 
 ## Technologie Mise en Avant
 
-> React Navigation — navigation fluide et intuitive
+> REST API — architecture standard pour les services web
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 18:20*
-<!-- auto-update: 2026-04-28 18:20:02 -->
+*Dernière mise à jour : 28/04/2026 à 18:25*
+<!-- auto-update: 2026-04-28 18:25:02 -->
