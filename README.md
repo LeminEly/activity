@@ -6,15 +6,15 @@
 
 ## Statut Actuel
 
-Actif — toujours partant pour apprendre quelque chose de nouveau
+Actuellement connecté et disponible pour collaborer
 
-😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
+😄 Humeur : Fier des progrès accomplis, motivé pour la suite
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-En train de travailler sur une API REST avec Node.js et Express
+Implémentation d'un rate limiting pour protéger l'API
 
 📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
 
@@ -22,19 +22,19 @@ En train de travailler sur une API REST avec Node.js et Express
 
 ## 💬 Pensée du Moment
 
-*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
+🌈 *"La différence entre un bon et un excellent développeur, c'est la curiosité insatiable."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Ne pousse jamais sur main directement en production sans tests automatisés.
+🧩 **Conseil du jour :** Apprends les concepts fondamentaux avant les frameworks — ils resteront longtemps après que les frameworks disparaissent.
 
 ---
 
 ## Technologie Mise en Avant
 
-> REST API — architecture standard pour les services web
+> MongoDB — base de données NoSQL flexible et scalable
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 18:25*
-<!-- auto-update: 2026-04-28 18:25:02 -->
+*Dernière mise à jour : 28/04/2026 à 18:30*
+<!-- auto-update: 2026-04-28 18:30:02 -->
