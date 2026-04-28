@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Actuellement connecté et disponible pour collaborer
+Disponible pour du pair programming ou du mentoring
 
-😄 Humeur : Calme et méthodique — chaque problème a une solution
+😄 Humeur : En pleine forme et ultra productif
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🧹 Nettoyage du code mort et amélioration de la lisibilité
+🔧 Refactoring du code pour améliorer les performances
 
-📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
+📌 **Objectif cette semaine :** Mettre à jour toutes les dépendances obsolètes
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Les grands projets commencent toujours par un simple commit."*
+🌈 *"La différence entre un bon et un excellent développeur, c'est la curiosité insatiable."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
+🧩 **Conseil du jour :** Ne réinvente pas la roue — cherche d'abord si une librairie fiable résout déjà ton problème.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Cloudinary — gestion intelligente des médias dans le cloud
+> Reanimated — animations natives 60fps sur mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 13:05*
-<!-- auto-update: 2026-04-28 13:05:02 -->
+*Dernière mise à jour : 28/04/2026 à 13:10*
+<!-- auto-update: 2026-04-28 13:10:02 -->
