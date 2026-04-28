@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Connecté — ouvert aux code reviews et retours constructifs
+Prêt à rejoindre une équipe ambitieuse
 
-😄 Humeur : Lancé comme une fusée vers les objectifs du sprint
+😄 Humeur : Musique dans les oreilles, code dans les doigts
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-💬 Développement d'un système de chat temps réel avec Socket.io
+🌍 Ajout du support multilingue français/arabe dans l'application
 
-📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
+📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
 
 ---
 
 ## 💬 Pensée du Moment
 
-🏄 *"Surfe sur les difficultés techniques au lieu de les fuir — c'est là que tu grandis le plus."*
+🌺 *"Un code bien documenté est un cadeau pour ton futur toi."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Écris d'abord des tests, ensuite le code. Le TDD te fera gagner des heures de débogage.
+🧩 **Conseil du jour :** Apprends les concepts fondamentaux avant les frameworks — ils resteront longtemps après que les frameworks disparaissent.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Expo Notifications — notifications push natives
+> Node-cron — planification de tâches automatisées
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 16:15*
-<!-- auto-update: 2026-04-28 16:15:02 -->
+*Dernière mise à jour : 28/04/2026 à 16:20*
+<!-- auto-update: 2026-04-28 16:20:02 -->
