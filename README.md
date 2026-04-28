@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne — ouvert aux nouvelles opportunités
+Actif — toujours partant pour apprendre quelque chose de nouveau
 
-😄 Humeur : En mode réflexion profonde sur l'architecture
+😄 Humeur : Musique dans les oreilles, code dans les doigts
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-📚 Lecture de la documentation officielle de Socket.io
+Développement d'une interface mobile avec React Native et Expo
 
-📌 **Objectif cette semaine :** Intégrer des analytics pour mieux comprendre l'usage
+📌 **Objectif cette semaine :** Créer des composants réutilisables pour le design system
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
+✨ *"Contribuer à l'open source, c'est laisser sa trace dans l'histoire du développement."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Apprends les concepts fondamentaux avant les frameworks — ils resteront longtemps après que les frameworks disparaissent.
+🧩 **Conseil du jour :** Un README clair et complet est souvent plus précieux que le code lui-même pour un nouveau contributeur.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Reanimated — animations natives 60fps sur mobile
+> Lottie — animations vectorielles haute performance
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 14:05*
-<!-- auto-update: 2026-04-28 14:05:02 -->
+*Dernière mise à jour : 28/04/2026 à 14:10*
+<!-- auto-update: 2026-04-28 14:10:02 -->
