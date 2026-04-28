@@ -6,15 +6,15 @@
 
 ## Statut Actuel
 
-Actif — en train de construire quelque chose d'intéressant
+Prêt à rejoindre une équipe ambitieuse
 
-😄 Humeur : Lancé comme une fusée vers les objectifs du sprint
+😄 Humeur : Calme et méthodique — chaque problème a une solution
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un rate limiting pour protéger l'API
+Développement d'une interface mobile avec React Native et Expo
 
 📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
 
@@ -22,19 +22,19 @@ Implémentation d'un rate limiting pour protéger l'API
 
 ## 💬 Pensée du Moment
 
-🏄 *"Surfe sur les difficultés techniques au lieu de les fuir — c'est là que tu grandis le plus."*
+🌺 *"Un code bien documenté est un cadeau pour ton futur toi."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Documente ton API dès que tu la crées — pas après coup, quand tu as tout oublié.
+🧩 **Conseil du jour :** Une API bien conçue est une API que les développeurs adorent utiliser sans lire la doc.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Mongoose — ODM élégant pour MongoDB et Node.js
+> Expo Notifications — notifications push natives
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 02:30*
-<!-- auto-update: 2026-04-28 02:30:02 -->
+*Dernière mise à jour : 28/04/2026 à 02:35*
+<!-- auto-update: 2026-04-28 02:35:03 -->
