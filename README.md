@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-Présent et concentré sur l'amélioration continue
+Disponible pour du pair programming ou du mentoring
 
 😄 Humeur : Calme et méthodique — chaque problème a une solution
 
@@ -14,27 +14,27 @@ Présent et concentré sur l'amélioration continue
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Optimisation des requêtes MongoDB avec des index personnalisés
+En train de travailler sur une API REST avec Node.js et Express
 
-📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
+📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Chaque ligne de code est une opportunité de résoudre un problème réel pour quelqu'un."*
+*"Apprendre une nouvelle technologie chaque mois, c'est devenir 12 fois meilleur chaque année."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Apprends les raccourcis de ton éditeur — chaque seconde économisée se multiplie par des milliers d'utilisations.
+🧩 **Conseil du jour :** Apprends à utiliser git bisect — ça peut te faire gagner des heures pour localiser un bug.
 
 ---
 
 ## Technologie Mise en Avant
 
-> React Navigation — navigation fluide et intuitive
+> Axios — client HTTP promesse-based pour les API
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 29/04/2026 à 02:05*
-<!-- auto-update: 2026-04-29 02:05:04 -->
+*Dernière mise à jour : 29/04/2026 à 02:10*
+<!-- auto-update: 2026-04-29 02:10:02 -->
