@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-En ligne — ouvert aux nouvelles opportunités
+Présent et concentré sur l'amélioration continue
 
 😄 Humeur : En feu — les idées fusent et le code coule
 
@@ -14,27 +14,27 @@ En ligne — ouvert aux nouvelles opportunités
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un système de notifications push avec Expo
+Modélisation de la base de données avec Mongoose
 
-📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
+📌 **Objectif cette semaine :** Mettre en place un système de cache Redis
 
 ---
 
 ## 💬 Pensée du Moment
 
-💡 *"Le code que tu écris aujourd'hui est l'infrastructure de demain."*
+💎 *"Construis des choses qui durent. Écris du code dont tu seras fier dans 5 ans."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
+🧩 **Conseil du jour :** Une API bien conçue est une API que les développeurs adorent utiliser sans lire la doc.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Lottie — animations vectorielles haute performance
+> Node-cron — planification de tâches automatisées
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 28/04/2026 à 18:35*
-<!-- auto-update: 2026-04-28 18:35:02 -->
+*Dernière mise à jour : 29/04/2026 à 00:35*
+<!-- auto-update: 2026-04-29 00:35:11 -->
