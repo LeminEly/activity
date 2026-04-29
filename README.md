@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-Disponible pour des projets freelance ou collaboratifs
+Connecté — disponible pour discuter de vos projets
 
 😄 Humeur : Session de nuit — le calme favorise la concentration
 
@@ -14,27 +14,27 @@ Disponible pour des projets freelance ou collaboratifs
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-💬 Développement d'un système de chat temps réel avec Socket.io
+Renforcement de la sécurité avec JWT et refresh tokens
 
-📌 **Objectif cette semaine :** Mettre en place des alertes de monitoring en production
+📌 **Objectif cette semaine :** Implémenter une nouvelle fonctionnalité de recherche avancée
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Les grands projets commencent toujours par un simple commit."*
+💪 *"La persévérance dans le code, c'est écrire la même fonction 10 fois jusqu'à ce qu'elle soit parfaite."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Ne pousse jamais sur main directement en production sans tests automatisés.
+🧩 **Conseil du jour :** Apprends à utiliser git bisect — ça peut te faire gagner des heures pour localiser un bug.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Node.js — runtime JavaScript côté serveur ultra-rapide
+> Express.js — framework web minimaliste et flexible
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 29/04/2026 à 02:15*
-<!-- auto-update: 2026-04-29 02:15:03 -->
+*Dernière mise à jour : 29/04/2026 à 02:20*
+<!-- auto-update: 2026-04-29 02:20:05 -->
