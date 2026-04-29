@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Connecté — disponible pour discuter de vos projets
+Disponible — passionné par le développement mobile et backend
 
-😄 Humeur : Calme et méthodique — chaque problème a une solution
+😄 Humeur : Fier des progrès accomplis, motivé pour la suite
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Travail sur l'expérience utilisateur et l'accessibilité
+🔄 Mise en place d'un pipeline CI/CD avec GitHub Actions
 
-📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
+📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Chaque ligne de code est une opportunité de résoudre un problème réel pour quelqu'un."*
+*"Les grands projets commencent toujours par un simple commit."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
+🧩 **Conseil du jour :** Utilise toujours des variables d'environnement pour tes secrets — jamais de tokens en dur dans le code.
 
 ---
 
 ## Technologie Mise en Avant
 
-> MongoDB — base de données NoSQL flexible et scalable
+> REST API — architecture standard pour les services web
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 29/04/2026 à 00:40*
-<!-- auto-update: 2026-04-29 00:40:02 -->
+*Dernière mise à jour : 29/04/2026 à 00:45*
+<!-- auto-update: 2026-04-29 00:45:03 -->
