@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-Disponible pour des projets freelance ou collaboratifs
+En ligne — ouvert aux nouvelles opportunités
 
 😄 Humeur : Session de nuit — le calme favorise la concentration
 
@@ -14,27 +14,27 @@ Disponible pour des projets freelance ou collaboratifs
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-En train de travailler sur une API REST avec Node.js et Express
+🧹 Nettoyage du code mort et amélioration de la lisibilité
 
-📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
+📌 **Objectif cette semaine :** Refactorer le module d'authentification pour plus de sécurité
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Chaque ligne de code est une opportunité de résoudre un problème réel pour quelqu'un."*
+💪 *"La persévérance dans le code, c'est écrire la même fonction 10 fois jusqu'à ce qu'elle soit parfaite."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Backup automatique + monitoring = sommeil tranquille pour tout développeur sérieux.
+🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Winston — logging professionnel multi-transport
+> Express Rate Limit — protection contre les attaques DDoS
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 29/04/2026 à 12:25*
-<!-- auto-update: 2026-04-29 12:25:02 -->
+*Dernière mise à jour : 29/04/2026 à 12:30*
+<!-- auto-update: 2026-04-29 12:30:02 -->
