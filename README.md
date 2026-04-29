@@ -6,17 +6,17 @@
 
 ## Statut Actuel
 
-Disponible pour du pair programming ou du mentoring
+Disponible pour des projets freelance ou collaboratifs
 
-😄 Humeur : Café en main, prêt à conquérir le code
+😄 Humeur : Lancé comme une fusée vers les objectifs du sprint
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🌍 Ajout du support multilingue français/arabe dans l'application
+Implémentation d'un rate limiting pour protéger l'API
 
-📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
+📌 **Objectif cette semaine :** Améliorer l'accessibilité de l'application mobile
 
 ---
 
@@ -34,7 +34,7 @@ Disponible pour du pair programming ou du mentoring
 
 ## Technologie Mise en Avant
 
-> Socket.io — communication temps réel bidirectionnelle
+> Expo SDK — écosystème complet pour le développement mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 29/04/2026 à 12:05*
-<!-- auto-update: 2026-04-29 12:05:04 -->
+*Dernière mise à jour : 29/04/2026 à 12:10*
+<!-- auto-update: 2026-04-29 12:10:03 -->
