@@ -6,29 +6,29 @@
 
 ## Statut Actuel
 
-Disponible — passionné par le développement mobile et backend
+En ligne — ouvert aux nouvelles opportunités
 
-😄 Humeur : Fier des progrès accomplis, motivé pour la suite
+😄 Humeur : Calme et méthodique — chaque problème a une solution
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🔄 Mise en place d'un pipeline CI/CD avec GitHub Actions
+Implémentation d'un système de notifications push avec Expo
 
-📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
+📌 **Objectif cette semaine :** Améliorer l'accessibilité de l'application mobile
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Les grands projets commencent toujours par un simple commit."*
+*"Apprendre une nouvelle technologie chaque mois, c'est devenir 12 fois meilleur chaque année."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise toujours des variables d'environnement pour tes secrets — jamais de tokens en dur dans le code.
+🧩 **Conseil du jour :** Garde tes fonctions courtes et focalisées sur une seule responsabilité.
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 29/04/2026 à 00:45*
-<!-- auto-update: 2026-04-29 00:45:03 -->
+*Dernière mise à jour : 29/04/2026 à 00:50*
+<!-- auto-update: 2026-04-29 00:50:03 -->
