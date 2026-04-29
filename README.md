@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-Disponible pour des projets freelance ou collaboratifs
+Actif — en train de construire quelque chose d'intéressant
 
 😄 Humeur : Lancé comme une fusée vers les objectifs du sprint
 
@@ -14,15 +14,15 @@ Disponible pour des projets freelance ou collaboratifs
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un rate limiting pour protéger l'API
+Debugging d'un problème complexe de synchronisation en temps réel
 
-📌 **Objectif cette semaine :** Améliorer l'accessibilité de l'application mobile
+📌 **Objectif cette semaine :** Intégrer des analytics pour mieux comprendre l'usage
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Les grands projets commencent toujours par un simple commit."*
+💎 *"Construis des choses qui durent. Écris du code dont tu seras fier dans 5 ans."*
 
 ---
 
@@ -34,7 +34,7 @@ Implémentation d'un rate limiting pour protéger l'API
 
 ## Technologie Mise en Avant
 
-> Expo SDK — écosystème complet pour le développement mobile
+> Mongoose — ODM élégant pour MongoDB et Node.js
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 29/04/2026 à 12:10*
-<!-- auto-update: 2026-04-29 12:10:03 -->
+*Dernière mise à jour : 29/04/2026 à 12:15*
+<!-- auto-update: 2026-04-29 12:15:02 -->
