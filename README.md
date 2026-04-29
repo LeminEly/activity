@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Prêt à rejoindre une équipe ambitieuse
+Actif et motivé — cherche de nouveaux défis
 
-😄 Humeur : Musique dans les oreilles, code dans les doigts
+😄 Humeur : Frais et motivé pour une nouvelle journée de dev
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un rate limiting pour protéger l'API
+Configuration de l'environnement Docker pour le développement
 
-📌 **Objectif cette semaine :** Mettre à jour toutes les dépendances obsolètes
+📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
 
 ---
 
 ## 💬 Pensée du Moment
 
-🌊 *"Ne crains pas la complexité — décompose-la en petits problèmes simples."*
+*"Apprendre une nouvelle technologie chaque mois, c'est devenir 12 fois meilleur chaque année."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Écris d'abord des tests, ensuite le code. Le TDD te fera gagner des heures de débogage.
+🧩 **Conseil du jour :** Ne réinvente pas la roue — cherche d'abord si une librairie fiable résout déjà ton problème.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Reanimated — animations natives 60fps sur mobile
+> JWT — authentification stateless et sécurisée
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 29/04/2026 à 01:10*
-<!-- auto-update: 2026-04-29 01:10:01 -->
+*Dernière mise à jour : 29/04/2026 à 01:15*
+<!-- auto-update: 2026-04-29 01:15:03 -->
