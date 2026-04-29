@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-En ligne — toujours là pour aider la communauté dev
+Disponible — passionné par le développement mobile et backend
 
 😄 Humeur : Fier des progrès accomplis, motivé pour la suite
 
@@ -14,27 +14,27 @@ En ligne — toujours là pour aider la communauté dev
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🔧 Refactoring du code pour améliorer les performances
+Exploration des nouvelles fonctionnalités de MongoDB 7
 
-📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
+📌 **Objectif cette semaine :** Documenter toutes les routes API avec Swagger
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Chaque bug résolu est une victoire. Chaque fonctionnalité livrée est une fierté."*
+🎪 *"L'expérience, c'est le nom qu'on donne à nos erreurs. Alors, expérimente beaucoup."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Backup automatique + monitoring = sommeil tranquille pour tout développeur sérieux.
+🧩 **Conseil du jour :** Fais des commits petits et fréquents plutôt qu'un seul gros commit — c'est plus facile à revoir et à réverter.
 
 ---
 
 ## Technologie Mise en Avant
 
-> MongoDB — base de données NoSQL flexible et scalable
+> AsyncStorage — persistance des données locales sur mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 29/04/2026 à 12:45*
-<!-- auto-update: 2026-04-29 12:45:02 -->
+*Dernière mise à jour : 29/04/2026 à 12:50*
+<!-- auto-update: 2026-04-29 12:50:03 -->
