@@ -6,29 +6,29 @@
 
 ## Statut Actuel
 
-Disponible — passionné par le développement mobile et backend
+Actif — en train de construire quelque chose d'intéressant
 
-😄 Humeur : Fier des progrès accomplis, motivé pour la suite
+😄 Humeur : Lancé comme une fusée vers les objectifs du sprint
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Exploration des nouvelles fonctionnalités de MongoDB 7
+🧪 Écriture de tests unitaires pour améliorer la couverture du code
 
-📌 **Objectif cette semaine :** Documenter toutes les routes API avec Swagger
+📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
 
 ---
 
 ## 💬 Pensée du Moment
 
-🎪 *"L'expérience, c'est le nom qu'on donne à nos erreurs. Alors, expérimente beaucoup."*
+🌟 *"Un bon développeur n'est pas celui qui connaît tout, mais celui qui sait comment trouver ce qu'il ne sait pas."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Fais des commits petits et fréquents plutôt qu'un seul gros commit — c'est plus facile à revoir et à réverter.
+🧩 **Conseil du jour :** Toujours valider les données côté serveur, même si tu les valides déjà côté client.
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 29/04/2026 à 12:50*
-<!-- auto-update: 2026-04-29 12:50:03 -->
+*Dernière mise à jour : 29/04/2026 à 12:55*
+<!-- auto-update: 2026-04-29 12:55:03 -->
