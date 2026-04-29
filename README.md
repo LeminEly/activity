@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Connecté — disponible pour discuter de vos projets
+Connecté — ouvert aux code reviews et retours constructifs
 
-😄 Humeur : Café en main, prêt à conquérir le code
+😄 Humeur : Plein d'idées nouvelles à implémenter
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-📚 Lecture de la documentation officielle de Socket.io
+🔄 Mise en place d'un pipeline CI/CD avec GitHub Actions
 
-📌 **Objectif cette semaine :** Créer des composants réutilisables pour le design system
+📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Programmer, c'est comme composer de la musique : l'harmonie vient de la pratique."*
+*"Chaque ligne de code est une opportunité de résoudre un problème réel pour quelqu'un."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** La sécurité n'est pas une fonctionnalité qu'on ajoute à la fin — elle se conçoit dès le début.
+🧩 **Conseil du jour :** Utilise toujours des variables d'environnement pour tes secrets — jamais de tokens en dur dans le code.
 
 ---
 
 ## Technologie Mise en Avant
 
-> AsyncStorage — persistance des données locales sur mobile
+> Express Rate Limit — protection contre les attaques DDoS
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 29/04/2026 à 00:55*
-<!-- auto-update: 2026-04-29 00:55:02 -->
+*Dernière mise à jour : 29/04/2026 à 01:00*
+<!-- auto-update: 2026-04-29 01:00:03 -->
