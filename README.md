@@ -6,17 +6,17 @@
 
 ## Statut Actuel
 
-Disponible — passionné par le développement mobile et backend
+Prêt à rejoindre une équipe ambitieuse
 
-😄 Humeur : Frais et motivé pour une nouvelle journée de dev
+😄 Humeur : En mode réflexion profonde sur l'architecture
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🧪 Écriture de tests unitaires pour améliorer la couverture du code
+📦 Mise à jour des dépendances npm vers les dernières versions stables
 
-📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
+📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
 
 ---
 
@@ -28,13 +28,13 @@ Disponible — passionné par le développement mobile et backend
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Apprends à utiliser git bisect — ça peut te faire gagner des heures pour localiser un bug.
+🧩 **Conseil du jour :** La sécurité n'est pas une fonctionnalité qu'on ajoute à la fin — elle se conçoit dès le début.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Winston — logging professionnel multi-transport
+> AsyncStorage — persistance des données locales sur mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 29/04/2026 à 02:50*
-<!-- auto-update: 2026-04-29 02:50:02 -->
+*Dernière mise à jour : 29/04/2026 à 11:50*
+<!-- auto-update: 2026-04-29 11:50:04 -->
