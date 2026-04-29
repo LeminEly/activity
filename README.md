@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Disponible pour des projets freelance ou collaboratifs
+Disponible pour du pair programming ou du mentoring
 
-😄 Humeur : Session de nuit — le calme favorise la concentration
+😄 Humeur : Café en main, prêt à conquérir le code
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-☁️ Intégration de Cloudinary pour la gestion des médias
+🌍 Ajout du support multilingue français/arabe dans l'application
 
-📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
+📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
 
 ---
 
 ## 💬 Pensée du Moment
 
-🔮 *"Le futur appartient aux développeurs qui continuent d'apprendre même quand personne ne les regarde."*
+*"Les grands projets commencent toujours par un simple commit."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Apprends les concepts fondamentaux avant les frameworks — ils resteront longtemps après que les frameworks disparaissent.
+🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Winston — logging professionnel multi-transport
+> Socket.io — communication temps réel bidirectionnelle
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 29/04/2026 à 12:00*
-<!-- auto-update: 2026-04-29 12:00:02 -->
+*Dernière mise à jour : 29/04/2026 à 12:05*
+<!-- auto-update: 2026-04-29 12:05:04 -->
