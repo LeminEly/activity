@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Disponible pour du pair programming ou du mentoring
+Prêt à rejoindre une équipe ambitieuse
 
-😄 Humeur : Fier des progrès accomplis, motivé pour la suite
+😄 Humeur : Musique dans les oreilles, code dans les doigts
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🔄 Mise en place d'un pipeline CI/CD avec GitHub Actions
+Implémentation d'un rate limiting pour protéger l'API
 
-📌 **Objectif cette semaine :** Implémenter une nouvelle fonctionnalité de recherche avancée
+📌 **Objectif cette semaine :** Mettre à jour toutes les dépendances obsolètes
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Chaque bug résolu est une victoire. Chaque fonctionnalité livrée est une fierté."*
+🌊 *"Ne crains pas la complexité — décompose-la en petits problèmes simples."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Lis le code des projets open source que tu admires — c'est la meilleure école gratuite.
+🧩 **Conseil du jour :** Écris d'abord des tests, ensuite le code. Le TDD te fera gagner des heures de débogage.
 
 ---
 
 ## Technologie Mise en Avant
 
-> MongoDB — base de données NoSQL flexible et scalable
+> Reanimated — animations natives 60fps sur mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 29/04/2026 à 01:05*
-<!-- auto-update: 2026-04-29 01:05:03 -->
+*Dernière mise à jour : 29/04/2026 à 01:10*
+<!-- auto-update: 2026-04-29 01:10:01 -->
