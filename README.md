@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Actif — en train de construire quelque chose d'intéressant
+Disponible pour du pair programming ou du mentoring
 
-😄 Humeur : Fier des progrès accomplis, motivé pour la suite
+😄 Humeur : Lancé comme une fusée vers les objectifs du sprint
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🔄 Mise en place d'un pipeline CI/CD avec GitHub Actions
+🎨 Amélioration de l'UI avec des animations Lottie et Reanimated
 
-📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
+📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
 
 ---
 
 ## 💬 Pensée du Moment
 
-🔮 *"Le futur appartient aux développeurs qui continuent d'apprendre même quand personne ne les regarde."*
+💎 *"Construis des choses qui durent. Écris du code dont tu seras fier dans 5 ans."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Documente ton API dès que tu la crées — pas après coup, quand tu as tout oublié.
+🧩 **Conseil du jour :** Prends des pauses régulières — un cerveau reposé résout les problèmes 10 fois plus vite.
 
 ---
 
 ## Technologie Mise en Avant
 
-> JWT — authentification stateless et sécurisée
+> Axios — client HTTP promesse-based pour les API
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 30/04/2026 à 03:50*
-<!-- auto-update: 2026-04-30 03:50:12 -->
+*Dernière mise à jour : 30/04/2026 à 03:55*
+<!-- auto-update: 2026-04-30 03:55:11 -->
