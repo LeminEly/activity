@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-Actif — toujours partant pour apprendre quelque chose de nouveau
+Actif — en train de construire quelque chose d'intéressant
 
 😄 Humeur : Frais et motivé pour une nouvelle journée de dev
 
@@ -14,9 +14,9 @@ Actif — toujours partant pour apprendre quelque chose de nouveau
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Debugging d'un problème complexe de synchronisation en temps réel
+🎨 Amélioration de l'UI avec des animations Lottie et Reanimated
 
-📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
+📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
 
 ---
 
@@ -28,13 +28,13 @@ Debugging d'un problème complexe de synchronisation en temps réel
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
+🧩 **Conseil du jour :** Fais des commits petits et fréquents plutôt qu'un seul gros commit — c'est plus facile à revoir et à réverter.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Expo SDK — écosystème complet pour le développement mobile
+> Mongoose — ODM élégant pour MongoDB et Node.js
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 30/04/2026 à 04:45*
-<!-- auto-update: 2026-04-30 04:45:02 -->
+*Dernière mise à jour : 30/04/2026 à 04:50*
+<!-- auto-update: 2026-04-30 04:50:02 -->
