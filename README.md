@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-Actuellement connecté et disponible pour collaborer
+Actif — toujours partant pour apprendre quelque chose de nouveau
 
 😄 Humeur : Café en main, prêt à conquérir le code
 
@@ -14,27 +14,27 @@ Actuellement connecté et disponible pour collaborer
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Renforcement de la sécurité avec JWT et refresh tokens
+☁️ Intégration de Cloudinary pour la gestion des médias
 
-📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
+📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Les grands projets commencent toujours par un simple commit."*
+*"Les nuits de débogage intenses forment les développeurs exceptionnels."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
+🧩 **Conseil du jour :** Utilise toujours des variables d'environnement pour tes secrets — jamais de tokens en dur dans le code.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Lottie — animations vectorielles haute performance
+> Mongoose — ODM élégant pour MongoDB et Node.js
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 30/04/2026 à 05:10*
-<!-- auto-update: 2026-04-30 05:10:01 -->
+*Dernière mise à jour : 30/04/2026 à 05:15*
+<!-- auto-update: 2026-04-30 05:15:03 -->
