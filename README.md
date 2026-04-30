@@ -14,27 +14,27 @@ En ligne — ouvert aux nouvelles opportunités
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Travail sur l'expérience utilisateur et l'accessibilité
+Configuration de l'environnement Docker pour le développement
 
-📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
+📌 **Objectif cette semaine :** Améliorer l'accessibilité de l'application mobile
 
 ---
 
 ## 💬 Pensée du Moment
 
-🌈 *"La différence entre un bon et un excellent développeur, c'est la curiosité insatiable."*
+*"Programmer, c'est comme composer de la musique : l'harmonie vient de la pratique."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Un README clair et complet est souvent plus précieux que le code lui-même pour un nouveau contributeur.
+🧩 **Conseil du jour :** La règle des 2 minutes : si ça prend moins de 2 minutes à faire, fais-le maintenant.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Reanimated — animations natives 60fps sur mobile
+> React Navigation — navigation fluide et intuitive
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 30/04/2026 à 09:20*
-<!-- auto-update: 2026-04-30 09:20:03 -->
+*Dernière mise à jour : 30/04/2026 à 09:25*
+<!-- auto-update: 2026-04-30 09:25:03 -->
