@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Disponible — passionné par le développement mobile et backend
+Présent et concentré sur l'amélioration continue
 
-😄 Humeur : Plein d'idées nouvelles à implémenter
+😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Développement d'une interface mobile avec React Native et Expo
+Exploration des nouvelles fonctionnalités de MongoDB 7
 
-📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
+📌 **Objectif cette semaine :** Intégrer des analytics pour mieux comprendre l'usage
 
 ---
 
 ## 💬 Pensée du Moment
 
-💪 *"La persévérance dans le code, c'est écrire la même fonction 10 fois jusqu'à ce qu'elle soit parfaite."*
+🏄 *"Surfe sur les difficultés techniques au lieu de les fuir — c'est là que tu grandis le plus."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Ne pousse jamais sur main directement en production sans tests automatisés.
+🧩 **Conseil du jour :** Utilise des branches git pour chaque fonctionnalité — garde main toujours stable et déployable.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Expo Notifications — notifications push natives
+> Lottie — animations vectorielles haute performance
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 30/04/2026 à 12:25*
-<!-- auto-update: 2026-04-30 12:25:08 -->
+*Dernière mise à jour : 30/04/2026 à 13:30*
+<!-- auto-update: 2026-04-30 13:30:04 -->
