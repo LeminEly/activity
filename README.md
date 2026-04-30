@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne et prêt à contribuer à des projets open source
+Disponible — passionné par le développement mobile et backend
 
-😄 Humeur : Confiant et serein face aux défis techniques
+😄 Humeur : Plein d'idées nouvelles à implémenter
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-En train de travailler sur une API REST avec Node.js et Express
+Développement d'une interface mobile avec React Native et Expo
 
-📌 **Objectif cette semaine :** Intégrer des analytics pour mieux comprendre l'usage
+📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
+💪 *"La persévérance dans le code, c'est écrire la même fonction 10 fois jusqu'à ce qu'elle soit parfaite."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Log intelligemment — trop de logs = pas de logs utiles. Trop peu = debugging impossible en production.
+🧩 **Conseil du jour :** Ne pousse jamais sur main directement en production sans tests automatisés.
 
 ---
 
 ## Technologie Mise en Avant
 
-> AsyncStorage — persistance des données locales sur mobile
+> Expo Notifications — notifications push natives
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 30/04/2026 à 12:20*
-<!-- auto-update: 2026-04-30 12:20:03 -->
+*Dernière mise à jour : 30/04/2026 à 12:25*
+<!-- auto-update: 2026-04-30 12:25:08 -->
