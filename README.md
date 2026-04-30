@@ -6,15 +6,15 @@
 
 ## Statut Actuel
 
-En ligne — ouvert aux nouvelles opportunités
+Actuellement connecté et disponible pour collaborer
 
-😄 Humeur : En pleine forme et ultra productif
+😄 Humeur : En feu — les idées fusent et le code coule
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Configuration de l'environnement Docker pour le développement
+Implémentation d'un système de notifications push avec Expo
 
 📌 **Objectif cette semaine :** Améliorer l'accessibilité de l'application mobile
 
@@ -22,19 +22,19 @@ Configuration de l'environnement Docker pour le développement
 
 ## 💬 Pensée du Moment
 
-*"Programmer, c'est comme composer de la musique : l'harmonie vient de la pratique."*
+*"Le meilleur moment pour commencer un projet était hier. Le deuxième meilleur moment, c'est maintenant."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** La règle des 2 minutes : si ça prend moins de 2 minutes à faire, fais-le maintenant.
+🧩 **Conseil du jour :** Fais des commits petits et fréquents plutôt qu'un seul gros commit — c'est plus facile à revoir et à réverter.
 
 ---
 
 ## Technologie Mise en Avant
 
-> React Navigation — navigation fluide et intuitive
+> Node.js — runtime JavaScript côté serveur ultra-rapide
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 30/04/2026 à 09:25*
-<!-- auto-update: 2026-04-30 09:25:03 -->
+*Dernière mise à jour : 30/04/2026 à 09:30*
+<!-- auto-update: 2026-04-30 09:30:03 -->
