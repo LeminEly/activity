@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne — toujours là pour aider la communauté dev
+Disponible pour du pair programming ou du mentoring
 
-😄 Humeur : Session de nuit — le calme favorise la concentration
+😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Debugging d'un problème complexe de synchronisation en temps réel
+Implémentation d'un système de notifications push avec Expo
 
-📌 **Objectif cette semaine :** Refactorer le module d'authentification pour plus de sécurité
+📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
 
 ---
 
 ## 💬 Pensée du Moment
 
-🏄 *"Surfe sur les difficultés techniques au lieu de les fuir — c'est là que tu grandis le plus."*
+🌟 *"Un bon développeur n'est pas celui qui connaît tout, mais celui qui sait comment trouver ce qu'il ne sait pas."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Fais des code reviews régulières — même sur ton propre code après quelques jours.
+🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Axios — client HTTP promesse-based pour les API
+> Express.js — framework web minimaliste et flexible
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 30/04/2026 à 12:10*
-<!-- auto-update: 2026-04-30 12:10:05 -->
+*Dernière mise à jour : 30/04/2026 à 12:15*
+<!-- auto-update: 2026-04-30 12:15:21 -->
