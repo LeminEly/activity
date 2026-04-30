@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Prêt à rejoindre une équipe ambitieuse
+En ligne — ouvert aux nouvelles opportunités
 
-😄 Humeur : Lancé comme une fusée vers les objectifs du sprint
+😄 Humeur : Café en main, prêt à conquérir le code
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🧹 Nettoyage du code mort et amélioration de la lisibilité
+🧪 Écriture de tests unitaires pour améliorer la couverture du code
 
-📌 **Objectif cette semaine :** Implémenter une nouvelle fonctionnalité de recherche avancée
+📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
 
 ---
 
 ## 💬 Pensée du Moment
 
-🌊 *"Ne crains pas la complexité — décompose-la en petits problèmes simples."*
+🔮 *"Le futur appartient aux développeurs qui continuent d'apprendre même quand personne ne les regarde."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Ne pousse jamais sur main directement en production sans tests automatisés.
+🧩 **Conseil du jour :** Log intelligemment — trop de logs = pas de logs utiles. Trop peu = debugging impossible en production.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Socket.io — communication temps réel bidirectionnelle
+> Lottie — animations vectorielles haute performance
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 30/04/2026 à 09:00*
-<!-- auto-update: 2026-04-30 09:00:02 -->
+*Dernière mise à jour : 30/04/2026 à 09:05*
+<!-- auto-update: 2026-04-30 09:05:02 -->
