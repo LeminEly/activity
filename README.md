@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Disponible pour du pair programming ou du mentoring
+En ligne — ouvert aux nouvelles opportunités
 
-😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
+😄 Humeur : En pleine forme et ultra productif
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🌍 Ajout du support multilingue français/arabe dans l'application
+Travail sur l'expérience utilisateur et l'accessibilité
 
-📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
+📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
 
 ---
 
 ## 💬 Pensée du Moment
 
-🌊 *"Ne crains pas la complexité — décompose-la en petits problèmes simples."*
+🌈 *"La différence entre un bon et un excellent développeur, c'est la curiosité insatiable."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise toujours des variables d'environnement pour tes secrets — jamais de tokens en dur dans le code.
+🧩 **Conseil du jour :** Un README clair et complet est souvent plus précieux que le code lui-même pour un nouveau contributeur.
 
 ---
 
 ## Technologie Mise en Avant
 
-> AsyncStorage — persistance des données locales sur mobile
+> Reanimated — animations natives 60fps sur mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 30/04/2026 à 09:15*
-<!-- auto-update: 2026-04-30 09:15:08 -->
+*Dernière mise à jour : 30/04/2026 à 09:20*
+<!-- auto-update: 2026-04-30 09:20:03 -->
