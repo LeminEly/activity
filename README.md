@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne — ouvert aux nouvelles opportunités
+Actuellement connecté et disponible pour collaborer
 
-😄 Humeur : Café en main, prêt à conquérir le code
+😄 Humeur : Frais et motivé pour une nouvelle journée de dev
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🧪 Écriture de tests unitaires pour améliorer la couverture du code
+Renforcement de la sécurité avec JWT et refresh tokens
 
-📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
+📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
 
 ---
 
 ## 💬 Pensée du Moment
 
-🔮 *"Le futur appartient aux développeurs qui continuent d'apprendre même quand personne ne les regarde."*
+*"Apprendre une nouvelle technologie chaque mois, c'est devenir 12 fois meilleur chaque année."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Log intelligemment — trop de logs = pas de logs utiles. Trop peu = debugging impossible en production.
+🧩 **Conseil du jour :** La sécurité n'est pas une fonctionnalité qu'on ajoute à la fin — elle se conçoit dès le début.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Lottie — animations vectorielles haute performance
+> i18n — internationalisation et support RTL arabe/français
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 30/04/2026 à 09:05*
-<!-- auto-update: 2026-04-30 09:05:02 -->
+*Dernière mise à jour : 30/04/2026 à 09:10*
+<!-- auto-update: 2026-04-30 09:10:03 -->
