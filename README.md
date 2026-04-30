@@ -6,9 +6,9 @@
 
 ## Statut Actuel
 
-Disponible pour du pair programming ou du mentoring
+Disponible pour des projets freelance ou collaboratifs
 
-😄 Humeur : Lancé comme une fusée vers les objectifs du sprint
+😄 Humeur : Confiant et serein face aux défis techniques
 
 ---
 
@@ -22,19 +22,19 @@ Disponible pour du pair programming ou du mentoring
 
 ## 💬 Pensée du Moment
 
-💎 *"Construis des choses qui durent. Écris du code dont tu seras fier dans 5 ans."*
+🌊 *"Ne crains pas la complexité — décompose-la en petits problèmes simples."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Prends des pauses régulières — un cerveau reposé résout les problèmes 10 fois plus vite.
+🧩 **Conseil du jour :** Fais des code reviews régulières — même sur ton propre code après quelques jours.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Axios — client HTTP promesse-based pour les API
+> Express.js — framework web minimaliste et flexible
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 30/04/2026 à 03:55*
-<!-- auto-update: 2026-04-30 03:55:11 -->
+*Dernière mise à jour : 30/04/2026 à 04:00*
+<!-- auto-update: 2026-04-30 04:00:03 -->
