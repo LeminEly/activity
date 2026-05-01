@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-Prêt à rejoindre une équipe ambitieuse
+Actif — en train de construire quelque chose d'intéressant
 
 😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
 
@@ -14,27 +14,27 @@ Prêt à rejoindre une équipe ambitieuse
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Déploiement d'une nouvelle version de l'application en staging
+Implémentation d'un rate limiting pour protéger l'API
 
-📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
+📌 **Objectif cette semaine :** Mettre en place un système de cache Redis
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Les nuits de débogage intenses forment les développeurs exceptionnels."*
+*"Le code propre n'est pas écrit par chance — il est le résultat d'une discipline quotidienne."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
+🧩 **Conseil du jour :** Log intelligemment — trop de logs = pas de logs utiles. Trop peu = debugging impossible en production.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Expo SDK — écosystème complet pour le développement mobile
+> Axios — client HTTP promesse-based pour les API
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 01/05/2026 à 21:25*
-<!-- auto-update: 2026-05-01 21:25:11 -->
+*Dernière mise à jour : 01/05/2026 à 23:35*
+<!-- auto-update: 2026-05-01 23:35:03 -->
