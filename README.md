@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Actif — en train de construire quelque chose d'intéressant
+Actif — toujours partant pour apprendre quelque chose de nouveau
 
-😄 Humeur : Café en main, prêt à conquérir le code
+😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-📚 Lecture de la documentation officielle de Socket.io
+Implémentation d'un système de notifications push avec Expo
 
-📌 **Objectif cette semaine :** Refactorer le module d'authentification pour plus de sécurité
+📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
 
 ---
 
 ## 💬 Pensée du Moment
 
-✨ *"Contribuer à l'open source, c'est laisser sa trace dans l'histoire du développement."*
+🦋 *"Chaque refactoring est une métamorphose — du chaos vers l'élégance."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Ne pousse jamais sur main directement en production sans tests automatisés.
+🧩 **Conseil du jour :** Apprends les concepts fondamentaux avant les frameworks — ils resteront longtemps après que les frameworks disparaissent.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Expo SDK — écosystème complet pour le développement mobile
+> Winston — logging professionnel multi-transport
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 01/05/2026 à 21:00*
-<!-- auto-update: 2026-05-01 21:00:03 -->
+*Dernière mise à jour : 01/05/2026 à 21:05*
+<!-- auto-update: 2026-05-01 21:05:03 -->
