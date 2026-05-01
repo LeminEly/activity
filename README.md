@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Disponible pour des projets freelance ou collaboratifs
+Prêt à rejoindre une équipe ambitieuse
 
-😄 Humeur : En feu — les idées fusent et le code coule
+😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Renforcement de la sécurité avec JWT et refresh tokens
+Déploiement d'une nouvelle version de l'application en staging
 
-📌 **Objectif cette semaine :** Documenter toutes les routes API avec Swagger
+📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
 
 ---
 
 ## 💬 Pensée du Moment
 
-🌺 *"Un code bien documenté est un cadeau pour ton futur toi."*
+*"Les nuits de débogage intenses forment les développeurs exceptionnels."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Apprends à utiliser git bisect — ça peut te faire gagner des heures pour localiser un bug.
+🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
 
 ---
 
 ## Technologie Mise en Avant
 
-> React Navigation — navigation fluide et intuitive
+> Expo SDK — écosystème complet pour le développement mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 01/05/2026 à 21:20*
-<!-- auto-update: 2026-05-01 21:20:11 -->
+*Dernière mise à jour : 01/05/2026 à 21:25*
+<!-- auto-update: 2026-05-01 21:25:11 -->
