@@ -8,33 +8,33 @@
 
 Connecté — ouvert aux code reviews et retours constructifs
 
-😄 Humeur : Plein d'idées nouvelles à implémenter
+😄 Humeur : En pleine forme et ultra productif
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🌍 Ajout du support multilingue français/arabe dans l'application
+📝 Rédaction de la documentation technique du projet
 
-📌 **Objectif cette semaine :** Implémenter une nouvelle fonctionnalité de recherche avancée
+📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Les nuits de débogage intenses forment les développeurs exceptionnels."*
+*"Chaque bug résolu est une victoire. Chaque fonctionnalité livrée est une fierté."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Nomme tes variables et fonctions comme si la personne qui lira ton code est un serial killer qui connaît ton adresse.
+🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Axios — client HTTP promesse-based pour les API
+> Express Rate Limit — protection contre les attaques DDoS
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 01/05/2026 à 20:30*
-<!-- auto-update: 2026-05-01 20:30:09 -->
+*Dernière mise à jour : 01/05/2026 à 20:40*
+<!-- auto-update: 2026-05-01 20:40:04 -->
