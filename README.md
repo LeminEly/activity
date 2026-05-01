@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Présent et concentré sur l'amélioration continue
+Disponible pour des projets freelance ou collaboratifs
 
-😄 Humeur : Calme et méthodique — chaque problème a une solution
+😄 Humeur : En feu — les idées fusent et le code coule
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-📦 Mise à jour des dépendances npm vers les dernières versions stables
+Renforcement de la sécurité avec JWT et refresh tokens
 
-📌 **Objectif cette semaine :** Mettre à jour toutes les dépendances obsolètes
+📌 **Objectif cette semaine :** Documenter toutes les routes API avec Swagger
 
 ---
 
 ## 💬 Pensée du Moment
 
-🔮 *"Le futur appartient aux développeurs qui continuent d'apprendre même quand personne ne les regarde."*
+🌺 *"Un code bien documenté est un cadeau pour ton futur toi."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
+🧩 **Conseil du jour :** Apprends à utiliser git bisect — ça peut te faire gagner des heures pour localiser un bug.
 
 ---
 
 ## Technologie Mise en Avant
 
-> MongoDB — base de données NoSQL flexible et scalable
+> React Navigation — navigation fluide et intuitive
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 01/05/2026 à 21:15*
-<!-- auto-update: 2026-05-01 21:15:11 -->
+*Dernière mise à jour : 01/05/2026 à 21:20*
+<!-- auto-update: 2026-05-01 21:20:11 -->
