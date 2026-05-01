@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-En ligne — prêt à collaborer sur des idées innovantes
+Disponible pour des projets freelance ou collaboratifs
 
 😄 Humeur : Chargé à bloc et prêt à coder pendant des heures
 
@@ -14,27 +14,27 @@ En ligne — prêt à collaborer sur des idées innovantes
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un rate limiting pour protéger l'API
+Renforcement de la sécurité avec JWT et refresh tokens
 
-📌 **Objectif cette semaine :** Améliorer l'accessibilité de l'application mobile
+📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
 
 ---
 
 ## 💬 Pensée du Moment
 
-🌟 *"Un bon développeur n'est pas celui qui connaît tout, mais celui qui sait comment trouver ce qu'il ne sait pas."*
+*"Programmer, c'est comme composer de la musique : l'harmonie vient de la pratique."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Apprends les concepts fondamentaux avant les frameworks — ils resteront longtemps après que les frameworks disparaissent.
+🧩 **Conseil du jour :** Écris d'abord des tests, ensuite le code. Le TDD te fera gagner des heures de débogage.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Express Rate Limit — protection contre les attaques DDoS
+> React Native — développement mobile cross-platform
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 01/05/2026 à 20:45*
-<!-- auto-update: 2026-05-01 20:45:02 -->
+*Dernière mise à jour : 01/05/2026 à 20:50*
+<!-- auto-update: 2026-05-01 20:50:03 -->
