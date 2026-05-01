@@ -6,15 +6,15 @@
 
 ## Statut Actuel
 
-Disponible pour des projets freelance ou collaboratifs
+Actuellement connecté et disponible pour collaborer
 
-😄 Humeur : Chargé à bloc et prêt à coder pendant des heures
+😄 Humeur : En feu — les idées fusent et le code coule
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Renforcement de la sécurité avec JWT et refresh tokens
+Configuration de l'environnement Docker pour le développement
 
 📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
 
@@ -22,19 +22,19 @@ Renforcement de la sécurité avec JWT et refresh tokens
 
 ## 💬 Pensée du Moment
 
-*"Programmer, c'est comme composer de la musique : l'harmonie vient de la pratique."*
+💡 *"Le code que tu écris aujourd'hui est l'infrastructure de demain."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Écris d'abord des tests, ensuite le code. Le TDD te fera gagner des heures de débogage.
+🧩 **Conseil du jour :** Apprends les concepts fondamentaux avant les frameworks — ils resteront longtemps après que les frameworks disparaissent.
 
 ---
 
 ## Technologie Mise en Avant
 
-> React Native — développement mobile cross-platform
+> Node.js — runtime JavaScript côté serveur ultra-rapide
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 01/05/2026 à 20:50*
-<!-- auto-update: 2026-05-01 20:50:03 -->
+*Dernière mise à jour : 01/05/2026 à 20:55*
+<!-- auto-update: 2026-05-01 20:55:04 -->
