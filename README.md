@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Connecté — ouvert aux code reviews et retours constructifs
+Disponible pour des projets freelance ou collaboratifs
 
-😄 Humeur : Confiant et serein face aux défis techniques
+😄 Humeur : En pleine forme et ultra productif
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Travail sur l'expérience utilisateur et l'accessibilité
+Renforcement de la sécurité avec JWT et refresh tokens
 
-📌 **Objectif cette semaine :** Documenter toutes les routes API avec Swagger
+📌 **Objectif cette semaine :** Améliorer l'accessibilité de l'application mobile
 
 ---
 
 ## 💬 Pensée du Moment
 
-🦋 *"Chaque refactoring est une métamorphose — du chaos vers l'élégance."*
+*"Les nuits de débogage intenses forment les développeurs exceptionnels."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** La sécurité n'est pas une fonctionnalité qu'on ajoute à la fin — elle se conçoit dès le début.
+🧩 **Conseil du jour :** Utilise des linters et des formatters automatiques — le style cohérent améliore la lisibilité du code en équipe.
 
 ---
 
 ## Technologie Mise en Avant
 
-> MongoDB — base de données NoSQL flexible et scalable
+> i18n — internationalisation et support RTL arabe/français
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 02/05/2026 à 00:00*
-<!-- auto-update: 2026-05-02 00:00:11 -->
+*Dernière mise à jour : 02/05/2026 à 00:05*
+<!-- auto-update: 2026-05-02 00:05:03 -->
