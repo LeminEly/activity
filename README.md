@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne — toujours là pour aider la communauté dev
+Prêt à rejoindre une équipe ambitieuse
 
-😄 Humeur : Café en main, prêt à conquérir le code
+😄 Humeur : Plein d'idées nouvelles à implémenter
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🔄 Mise en place d'un pipeline CI/CD avec GitHub Actions
+🔗 Intégration d'une API tierce pour enrichir les fonctionnalités
 
-📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
+📌 **Objectif cette semaine :** Implémenter une nouvelle fonctionnalité de recherche avancée
 
 ---
 
 ## 💬 Pensée du Moment
 
-🦋 *"Chaque refactoring est une métamorphose — du chaos vers l'élégance."*
+*"Les grands projets commencent toujours par un simple commit."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Toujours valider les données côté serveur, même si tu les valides déjà côté client.
+🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Reanimated — animations natives 60fps sur mobile
+> Axios — client HTTP promesse-based pour les API
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 02/05/2026 à 00:10*
-<!-- auto-update: 2026-05-02 00:10:08 -->
+*Dernière mise à jour : 02/05/2026 à 00:15*
+<!-- auto-update: 2026-05-02 00:15:02 -->
