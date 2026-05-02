@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Disponible pour du pair programming ou du mentoring
+En ligne — ouvert aux nouvelles opportunités
 
-😄 Humeur : Café en main, prêt à conquérir le code
+😄 Humeur : Plein d'idées nouvelles à implémenter
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-📚 Lecture de la documentation officielle de Socket.io
+Renforcement de la sécurité avec JWT et refresh tokens
 
-📌 **Objectif cette semaine :** Mettre en place des alertes de monitoring en production
+📌 **Objectif cette semaine :** Implémenter une nouvelle fonctionnalité de recherche avancée
 
 ---
 
 ## 💬 Pensée du Moment
 
-✨ *"Contribuer à l'open source, c'est laisser sa trace dans l'histoire du développement."*
+*"Les nuits de débogage intenses forment les développeurs exceptionnels."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Nomme tes variables et fonctions comme si la personne qui lira ton code est un serial killer qui connaît ton adresse.
+🧩 **Conseil du jour :** Écris d'abord des tests, ensuite le code. Le TDD te fera gagner des heures de débogage.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Lottie — animations vectorielles haute performance
+> MongoDB — base de données NoSQL flexible et scalable
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 02/05/2026 à 00:20*
-<!-- auto-update: 2026-05-02 00:20:03 -->
+*Dernière mise à jour : 02/05/2026 à 00:25*
+<!-- auto-update: 2026-05-02 00:25:03 -->
