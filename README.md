@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Prêt à rejoindre une équipe ambitieuse
+Disponible pour du pair programming ou du mentoring
 
-😄 Humeur : Plein d'idées nouvelles à implémenter
+😄 Humeur : Café en main, prêt à conquérir le code
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🔗 Intégration d'une API tierce pour enrichir les fonctionnalités
+📚 Lecture de la documentation officielle de Socket.io
 
-📌 **Objectif cette semaine :** Implémenter une nouvelle fonctionnalité de recherche avancée
+📌 **Objectif cette semaine :** Mettre en place des alertes de monitoring en production
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Les grands projets commencent toujours par un simple commit."*
+✨ *"Contribuer à l'open source, c'est laisser sa trace dans l'histoire du développement."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
+🧩 **Conseil du jour :** Nomme tes variables et fonctions comme si la personne qui lira ton code est un serial killer qui connaît ton adresse.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Axios — client HTTP promesse-based pour les API
+> Lottie — animations vectorielles haute performance
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 02/05/2026 à 00:15*
-<!-- auto-update: 2026-05-02 00:15:02 -->
+*Dernière mise à jour : 02/05/2026 à 00:20*
+<!-- auto-update: 2026-05-02 00:20:03 -->
