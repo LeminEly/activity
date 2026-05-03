@@ -8,33 +8,33 @@
 
 Disponible — passionné par le développement mobile et backend
 
-😄 Humeur : Chargé à bloc et prêt à coder pendant des heures
+😄 Humeur : Musique dans les oreilles, code dans les doigts
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-💬 Développement d'un système de chat temps réel avec Socket.io
+Implémentation d'un système de notifications push avec Expo
 
-📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
+📌 **Objectif cette semaine :** Refactorer le module d'authentification pour plus de sécurité
 
 ---
 
 ## 💬 Pensée du Moment
 
-💎 *"Construis des choses qui durent. Écris du code dont tu seras fier dans 5 ans."*
+🌺 *"Un code bien documenté est un cadeau pour ton futur toi."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** La sécurité n'est pas une fonctionnalité qu'on ajoute à la fin — elle se conçoit dès le début.
+🧩 **Conseil du jour :** Fais des commits petits et fréquents plutôt qu'un seul gros commit — c'est plus facile à revoir et à réverter.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Node-cron — planification de tâches automatisées
+> Reanimated — animations natives 60fps sur mobile
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 03/05/2026 à 19:45*
-<!-- auto-update: 2026-05-03 19:45:02 -->
+*Dernière mise à jour : 03/05/2026 à 19:50*
+<!-- auto-update: 2026-05-03 19:50:03 -->
