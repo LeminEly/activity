@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-En ligne et prêt à contribuer à des projets open source
+Actif — toujours partant pour apprendre quelque chose de nouveau
 
-😄 Humeur : Concentré et dans le flow total
+😄 Humeur : Posé et focalisé sur la qualité plutôt que la quantité
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Debugging d'un problème complexe de synchronisation en temps réel
+Travail sur l'expérience utilisateur et l'accessibilité
 
-📌 **Objectif cette semaine :** Améliorer la couverture de tests à 80%
+📌 **Objectif cette semaine :** Implémenter la pagination pour les grandes listes de données
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Apprendre une nouvelle technologie chaque mois, c'est devenir 12 fois meilleur chaque année."*
+*"Les grands projets commencent toujours par un simple commit."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** La règle des 2 minutes : si ça prend moins de 2 minutes à faire, fais-le maintenant.
+🧩 **Conseil du jour :** Ne réinvente pas la roue — cherche d'abord si une librairie fiable résout déjà ton problème.
 
 ---
 
 ## Technologie Mise en Avant
 
-> AsyncStorage — persistance des données locales sur mobile
+> Cloudinary — gestion intelligente des médias dans le cloud
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 03/05/2026 à 19:15*
-<!-- auto-update: 2026-05-03 19:15:02 -->
+*Dernière mise à jour : 03/05/2026 à 19:20*
+<!-- auto-update: 2026-05-03 19:20:02 -->
