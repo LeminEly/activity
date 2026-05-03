@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Disponible pour des projets freelance ou collaboratifs
+En ligne — toujours là pour aider la communauté dev
 
-😄 Humeur : Musique dans les oreilles, code dans les doigts
+😄 Humeur : Calme et méthodique — chaque problème a une solution
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🧪 Écriture de tests unitaires pour améliorer la couverture du code
+Debugging d'un problème complexe de synchronisation en temps réel
 
-📌 **Objectif cette semaine :** Mettre à jour toutes les dépendances obsolètes
+📌 **Objectif cette semaine :** Corriger tous les warnings ESLint dans le projet
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Apprendre une nouvelle technologie chaque mois, c'est devenir 12 fois meilleur chaque année."*
+*"Le code propre n'est pas écrit par chance — il est le résultat d'une discipline quotidienne."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Utilise toujours des variables d'environnement pour tes secrets — jamais de tokens en dur dans le code.
+🧩 **Conseil du jour :** Fais des commits petits et fréquents plutôt qu'un seul gros commit — c'est plus facile à revoir et à réverter.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Mongoose — ODM élégant pour MongoDB et Node.js
+> i18n — internationalisation et support RTL arabe/français
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 03/05/2026 à 03:20*
-<!-- auto-update: 2026-05-03 03:20:02 -->
+*Dernière mise à jour : 03/05/2026 à 03:25*
+<!-- auto-update: 2026-05-03 03:25:02 -->
