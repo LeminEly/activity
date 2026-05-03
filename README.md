@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Disponible — passionné par le développement mobile et backend
+Connecté — disponible pour discuter de vos projets
 
-😄 Humeur : En feu — les idées fusent et le code coule
+😄 Humeur : Confiant et serein face aux défis techniques
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-📦 Mise à jour des dépendances npm vers les dernières versions stables
+Modélisation de la base de données avec Mongoose
 
-📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
+📌 **Objectif cette semaine :** Améliorer l'accessibilité de l'application mobile
 
 ---
 
 ## 💬 Pensée du Moment
 
-💎 *"Construis des choses qui durent. Écris du code dont tu seras fier dans 5 ans."*
+🌈 *"La différence entre un bon et un excellent développeur, c'est la curiosité insatiable."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Apprends à utiliser git bisect — ça peut te faire gagner des heures pour localiser un bug.
+🧩 **Conseil du jour :** Ne réinvente pas la roue — cherche d'abord si une librairie fiable résout déjà ton problème.
 
 ---
 
 ## Technologie Mise en Avant
 
-> MongoDB — base de données NoSQL flexible et scalable
+> Cloudinary — gestion intelligente des médias dans le cloud
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 03/05/2026 à 05:45*
-<!-- auto-update: 2026-05-03 05:45:02 -->
+*Dernière mise à jour : 03/05/2026 à 05:50*
+<!-- auto-update: 2026-05-03 05:50:02 -->
