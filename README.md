@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-Prêt à rejoindre une équipe ambitieuse
+Disponible — passionné par le développement mobile et backend
 
 😄 Humeur : En feu — les idées fusent et le code coule
 
@@ -14,9 +14,9 @@ Prêt à rejoindre une équipe ambitieuse
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Optimisation des requêtes MongoDB avec des index personnalisés
+📦 Mise à jour des dépendances npm vers les dernières versions stables
 
-📌 **Objectif cette semaine :** Refactorer le module d'authentification pour plus de sécurité
+📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
 
 ---
 
@@ -28,13 +28,13 @@ Optimisation des requêtes MongoDB avec des index personnalisés
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Lis le code des projets open source que tu admires — c'est la meilleure école gratuite.
+🧩 **Conseil du jour :** Apprends à utiliser git bisect — ça peut te faire gagner des heures pour localiser un bug.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Lottie — animations vectorielles haute performance
+> MongoDB — base de données NoSQL flexible et scalable
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 03/05/2026 à 05:40*
-<!-- auto-update: 2026-05-03 05:40:03 -->
+*Dernière mise à jour : 03/05/2026 à 05:45*
+<!-- auto-update: 2026-05-03 05:45:02 -->
