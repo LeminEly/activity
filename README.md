@@ -8,33 +8,33 @@
 
 En ligne — ouvert aux nouvelles opportunités
 
-😄 Humeur : Plein d'idées nouvelles à implémenter
+😄 Humeur : Chargé à bloc et prêt à coder pendant des heures
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Renforcement de la sécurité avec JWT et refresh tokens
+Optimisation des requêtes MongoDB avec des index personnalisés
 
-📌 **Objectif cette semaine :** Implémenter une nouvelle fonctionnalité de recherche avancée
+📌 **Objectif cette semaine :** Améliorer les performances du chargement initial de l'app
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Les nuits de débogage intenses forment les développeurs exceptionnels."*
+*"Chaque bug résolu est une victoire. Chaque fonctionnalité livrée est une fierté."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Écris d'abord des tests, ensuite le code. Le TDD te fera gagner des heures de débogage.
+🧩 **Conseil du jour :** Un README clair et complet est souvent plus précieux que le code lui-même pour un nouveau contributeur.
 
 ---
 
 ## Technologie Mise en Avant
 
-> MongoDB — base de données NoSQL flexible et scalable
+> Socket.io — communication temps réel bidirectionnelle
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 02/05/2026 à 00:25*
-<!-- auto-update: 2026-05-02 00:25:03 -->
+*Dernière mise à jour : 03/05/2026 à 02:24*
+<!-- auto-update: 2026-05-03 02:24:33 -->
