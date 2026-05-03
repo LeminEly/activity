@@ -6,35 +6,35 @@
 
 ## Statut Actuel
 
-Disponible pour des projets freelance ou collaboratifs
+Disponible — passionné par le développement mobile et backend
 
-😄 Humeur : En pleine forme et ultra productif
+😄 Humeur : Lancé comme une fusée vers les objectifs du sprint
 
 ---
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-Implémentation d'un système de notifications push avec Expo
+🌍 Ajout du support multilingue français/arabe dans l'application
 
-📌 **Objectif cette semaine :** Optimiser le temps de réponse de l'API en dessous de 100ms
+📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Les nuits de débogage intenses forment les développeurs exceptionnels."*
+*"Chaque ligne de code est une opportunité de résoudre un problème réel pour quelqu'un."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Apprends les raccourcis de ton éditeur — chaque seconde économisée se multiplie par des milliers d'utilisations.
+🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
 
 ---
 
 ## Technologie Mise en Avant
 
-> Mongoose — ODM élégant pour MongoDB et Node.js
+> React Navigation — navigation fluide et intuitive
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 03/05/2026 à 02:39*
-<!-- auto-update: 2026-05-03 02:39:06 -->
+*Dernière mise à jour : 03/05/2026 à 02:40*
+<!-- auto-update: 2026-05-03 02:40:08 -->
