@@ -6,7 +6,7 @@
 
 ## Statut Actuel
 
-Disponible — passionné par le développement mobile et backend
+Actif et motivé — cherche de nouveaux défis
 
 😄 Humeur : Lancé comme une fusée vers les objectifs du sprint
 
@@ -14,27 +14,27 @@ Disponible — passionné par le développement mobile et backend
 
 ## 🛠️ Ce Sur Quoi Je Travaille
 
-🌍 Ajout du support multilingue français/arabe dans l'application
+Debugging d'un problème complexe de synchronisation en temps réel
 
-📌 **Objectif cette semaine :** Ajouter le support du mode sombre dans l'interface
+📌 **Objectif cette semaine :** Intégrer des analytics pour mieux comprendre l'usage
 
 ---
 
 ## 💬 Pensée du Moment
 
-*"Chaque ligne de code est une opportunité de résoudre un problème réel pour quelqu'un."*
+🏄 *"Surfe sur les difficultés techniques au lieu de les fuir — c'est là que tu grandis le plus."*
 
 ---
 
 ## 🧩 Conseil Tech du Jour
 
-🧩 **Conseil du jour :** Commente le POURQUOI, pas le QUOI — le code explique déjà ce qu'il fait.
+🧩 **Conseil du jour :** Utilise des branches git pour chaque fonctionnalité — garde main toujours stable et déployable.
 
 ---
 
 ## Technologie Mise en Avant
 
-> React Navigation — navigation fluide et intuitive
+> MongoDB — base de données NoSQL flexible et scalable
 
 ---
 
@@ -58,5 +58,5 @@ N'hésite pas à me contacter — je suis toujours ouvert à de nouvelles collab
 
 ---
 
-*Dernière mise à jour : 03/05/2026 à 02:40*
-<!-- auto-update: 2026-05-03 02:40:08 -->
+*Dernière mise à jour : 03/05/2026 à 02:45*
+<!-- auto-update: 2026-05-03 02:45:03 -->
